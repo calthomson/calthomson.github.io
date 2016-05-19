@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Long Longer and more Longer titles look cool too!!"
-date:   2016-03-30 19:45:31 +0530
-categories: science
-author: "Chandler Bing"
+title:  "Saltspring"
+date:   2016-05-06 19:45:31 +0530
+categories: [travel, bike trips, gulf islands, british columbia]
+author: "Caledonia Thomson"
 ---
-"Could I be anymore pulling ?"
 
 Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
