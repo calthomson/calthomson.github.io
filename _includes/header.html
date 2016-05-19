@@ -11,7 +11,7 @@
     <div class="container-fluid">
       <center>
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
+          <a class="page-link" href="/index.html">HOME</a><span class="exclamationMark">/</span>
           <li><a href="#">Page 1</a></li>
           <li><a href="#">Page 2</a></li>
           <li><a href="#">Page 3</a></li>
@@ -20,7 +20,6 @@
     </div>
   </nav>
   <div class="trigger site-navigation">
-    <a class="page-link" href="/index.html">HOME</a><span class="exclamationMark">/</span>
 
     {% for sitePage in site.pages %}
     {% if sitePage.title %}
