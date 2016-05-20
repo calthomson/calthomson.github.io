@@ -6,7 +6,8 @@ categories: [travel, trips, gulf islands]
 author: "Caledonia Thomson"
 ---
 
-![alt text](/photos/2016-03-29-saturna/IMG_20160325_152607.jpg "Sunrise on the Ferry")
+![alt text]( "Sunrise on the Ferry")
+<img src="/photos/2016-03-29-saturna/IMG_20160325_152607.jpg" alt="Mountain View">
 
 Parker got a bike for his birthday so this Easter weekend we biked Saturna Island!
 
@@ -43,9 +44,7 @@ There were a few other visitors at East Point, but mainly local residents, AKA a
 ![alt text](/photos/2016-03-29-saturna/2016-03-25 02.49.47 1.jpg "Playing on the Rocks")
 
 ![alt text](/photos/2016-03-29-saturna/2016-03-25 12.28.45 1.jpg "Terrorizing the Wildlife")
-*Terrorizing the Wildlife*
-
-
+<br><center>*Terrorizing the Wildlife*</center>
 
 After waking up to sunburned faces we checked out the small museum on the point, then grabbed our bikes and headed to the viewpoint that David had mentioned. To get to the viewpoint you need to go west down Cliffside Road, until the T-intersection made by Cliffside and Fiddlers Road. Turn left and head down the small trail that kind of looks like someone’s private driveway. There’s a house down there but the viewpoint is to the right.
 
