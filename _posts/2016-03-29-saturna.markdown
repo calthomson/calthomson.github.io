@@ -6,8 +6,7 @@ categories: [travel, trips, gulf islands]
 author: "Caledonia Thomson"
 ---
 
-![alt text]( "Sunrise on the Ferry")
-<img src="/photos/2016-03-29-saturna/IMG_20160325_152607.jpg" alt="Mountain View">
+<img src="/photos/2016-03-29-saturna/IMG_20160325_152607.jpg" alt="Saturna" style="width:100%">
 
 Parker got a bike for his birthday so this Easter weekend we biked Saturna Island!
 
