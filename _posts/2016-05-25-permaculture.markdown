@@ -20,6 +20,8 @@ For example, most of the gardening websites I read tell me to turn over my soil 
 
 The important thing is that once you know what's up, you can make informed decisions. If everybody is responsible for their own carbon footprint and alters their small, everyday decisions to be more responsible, then we wouldn't have a problem. Set out buckets to catch rain water instead of turning on the tap. Throw weeds into your compost instead of sending them to a landfill.
 
+Working in software companies has proven to me again and again the importance of modularity, in teams and in software. Teams are so much more efficient when they are small, focused, and indepedent. The same can be applied to people in society. Each person, or family, should be an independent module, sorting out their own recycling from garbage correctly so that there doesn't need to be wasted energy somewhere else to sort it a second time- what a waste of everybody's time and energy!
+
 This isn't about being a tree-hugger environmentalist. Honestly, when I imagine an earth with no trees, no animals, and no humans, that's not a trajedy. It's just different, the world changes. What bugs me is the illogicality of the systems we have in place. Why would we send our bath water away from our house to be cleaned somewhere else when we could collect it and use it a second time, to water our gardens, and not need to transport it at all? I believe that the 3 E's- the economony, the environment and ethics- are closely intertwined, and the solution for a problem in one domain often helps with problems in another. It just makes sense.
 
 Now I just need to practice what I preach. :p
