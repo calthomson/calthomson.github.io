@@ -3,8 +3,10 @@ layout: page
 title : Gallery
 permalink: /gallery/
 ---
-{% for image in site.static_files %}
-    {% if image.path contains 'photos/' %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:25%"/>
-    {% endif %}
-{% endfor %}
+<ul class="photo-gallery">
+	{% for image in site.static_files %}
+	    {% if image.path contains 'photos/' %}
+	        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:25%"/>
+	    {% endif %}
+	{% endfor %}
+</ul>
