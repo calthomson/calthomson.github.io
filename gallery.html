@@ -6,7 +6,7 @@ permalink: /gallery/
 <ul class="photo-gallery">
 	{% for image in site.static_files %}
 	    {% if image.path contains 'photos/' %}
-	        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="width:25%"/>
+	        <img src="{{ site.baseurl }}{{ image.path }}" alt="image"/>
 	    {% endif %}
 	{% endfor %}
 </ul>
