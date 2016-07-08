@@ -6,7 +6,17 @@ categories: [travel, trips, gulf islands]
 author: "Caledonia Thomson"
 ---
 
-<img src="/photos/2016-03-29-saturna/IMG_20160325_152607.jpg" alt="Saturna" style="width:100%">
+<img id="myImg" src="/photos/2016-03-29-saturna/IMG_20160325_152607.jpg" alt="Saturna" style="width:100%">
+
+<div id="myModal" class="modal">
+  <span class="close" onclick="document.getElementById('myModal').style.display='none'">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="img01">
+
+  <!-- Modal Caption (Image Text) -->
+  <div id="caption"></div>
+</div>
 
 Parker got a bike for his birthday so this Easter weekend we biked Saturna Island!
 
@@ -16,10 +26,17 @@ We had four hours of sleep and no caffeine, but the ride to the terminal woke us
 
 I always feel excited when I’m up doing things that early, like I’m cheating at life because everyone else is asleep. I was so excited that I passed out immediately after we sat down on the ferry.
 
+<div class="row">
+  <div class="col-sm-4">
+    <a href="/photos/2016-03-29-saturna/12919540_10156704558270006_1085881501_o.jpg">
+    	<center><img src="/photos/2016-03-29-saturna/12919540_10156704558270006_1085881501_o.jpg" alt="Sleepy"></center><br>
+    </a>
+  </div>
+  <div class="col-sm-8">
+    <center><img src="/photos/2016-03-29-saturna/2016-03-25 02.49.50 1.jpg" alt="Sunrise on the Ferry"></center><br>
+  </div>
+</div>
 
-<center><img src="/photos/2016-03-29-saturna/12919540_10156704558270006_1085881501_o.jpg" alt="Sleepy" style="width:50%" align="middle"></center><br>
-
-<center><img src="/photos/2016-03-29-saturna/2016-03-25 02.49.50 1.jpg" alt="Sunrise on the Ferry" style="width:75%" align="middle"></center><br>
 
 The sky became more clear as we got closer to Swartz Bay and by the time we got on the second (much smaller) ferry for Saturna, the sun was fully in the sky and it was WARM! This ferry seemed to be full of mainly locals and only a handful of visitors. We got our first wave of hippy vibes as a guy started doing an intensive yoga routine behind us on the deck of the ferry.
 
@@ -89,6 +106,31 @@ We napped on the ferry and got into Tsawwassen around 10:00PM, biked home and pa
 <img src="/photos/2016-03-29-saturna/spider-pig.jpg" alt="Spider Pig"><br>
 
 -Caledonia
+
+<script>
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById('myImg');
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+    modal.style.display = "block";
+    modalImg.src = this.src;
+    modalImg.alt = this.alt;
+    captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+    modal.style.display = "none";
+}
+</script>
+
 
 
 
