@@ -8,6 +8,12 @@ author: "Caledonia Thomson"
 
 This long weekend my family piled into the truck and drove to Jasper for our cousin's wedding.
 
+<figure class="third">
+	<img src="/photos/2016-05-21-jasper/1.jpg">
+	<img src="/photos/2016-05-21-jasper/1.jpg">
+	<img src="/photos/2016-05-21-jasper/1.jpg">
+</figure>
+
 <div class="row">
 	<div class="col-sm-12"><img src="/photos/2016-05-21-jasper/1.jpg" /></div>              
 </div>

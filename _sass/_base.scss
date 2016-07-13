@@ -1,0 +1,61 @@
+@mixin clearfix {
+  *zoom: 1;
+  &:before,
+  &:after {
+    display: table;
+    content: "";
+    line-height: 0;
+  }
+  &:after {
+    clear: both;
+  }
+}
+
+// figures and images
+figure {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin: 2em 0;
+  @include clearfix();
+  figcaption {
+    margin-bottom: 0.5em;
+    font-size: 0.85em;
+    width: 100%;
+    text-align: center;
+  }
+  img {
+    margin-bottom: 10px;
+  }
+  > a {
+    display: block;
+    border: none !important;
+  }
+  &.half {
+    @media only screen and (min-width: $small) {
+      > a, > img {
+        width: calc(50% - 4px);
+        float: left;
+        margin-left: 1px;
+        margin-right: 1px;
+      }
+      figcaption {
+        clear: left;
+      }
+    }
+  }
+  &.third {
+    @media only screen and (min-width: $small) {
+      > a, > img {
+        width: calc(33.3% - 6px);
+        float: left;
+        margin-left: 1px;
+        margin-right: 1px;
+      }
+      figcaption {
+        clear: left;
+      }
+    }
+  }
+}
