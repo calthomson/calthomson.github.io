@@ -1,0 +1,7 @@
+---
+layout: gallery
+title:  "Jasper"
+photoDir: /photos/2016-05-21-jasper/
+date:   2016-05-21
+author: "Caledonia Thomson"
+---

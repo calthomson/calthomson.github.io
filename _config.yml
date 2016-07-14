@@ -17,3 +17,7 @@ instagram_username: calrthom
 
 # Build settings
 markdown: kramdown
+
+collections:
+  galleries:
+    output: true

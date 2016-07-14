@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<h1 class="post-title" itemprop="name headline"><a class="post-title-link"  href="{{page.url}}">{{ page.title }}</a></h1>
+<center>  <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
+
+<!-- <ul class="photo-gallery">
+  {% for image in site.static_files %}
+    {% if image.path contains {{page.photoDir}} %}
+    {% assign loopindex = forloop.index | modulo: 3 %}
+      {% if loopindex == 1 %}
+      1
+      <div class="row">
+        <div class="col-sm-4">
+          <a href="{{image.path}}"><img src="{{image.path}}"></a>
+        </div>
+      {% else if loopindex == 2 %}
+      2
+        <div class="col-sm-4">
+          <a href="{{image.path}}"><img src="{{image.path}}"></a>
+        </div>
+      {% else %}
+      3
+        <div class="col-sm-4">
+          <a href="{{image.path}}"><img src="{{image.path}}"></a>
+        </div>
+      </div>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</ul> -->
+
+<ul class="photo-gallery">
+  {% for image in site.static_files %}
+    {% if image.path contains {{page.photoDir}} %}
+        <div class="col-sm-4">
+          <a href="{{image.path}}"><img src="{{image.path}}"></a>
+          <br>
+        </div>
+    {% endif %}
+  {% endfor %}
+</ul>

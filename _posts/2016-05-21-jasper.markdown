@@ -2,52 +2,45 @@
 layout: post
 title:  "Jasper"
 date:   2016-05-21
-categories: [travel, trips, wedding]
 author: "Caledonia Thomson"
 ---
 
 This long weekend my family piled into the truck and drove to Jasper for our cousin's wedding.
 
-<figure class="third">
-	<a href="/photos/2016-05-21-jasper/1.jpg"><img src="/photos/2016-05-21-jasper/1.jpg"></a>
-	<a href="/photos/2016-05-21-jasper/1.jpg"><img src="/photos/2016-05-21-jasper/1.jpg"></a>
-	<a href="/photos/2016-05-21-jasper/1.jpg"><img src="/photos/2016-05-21-jasper/1.jpg"></a>
-</figure>
-
 <div class="row">
-	<div class="col-sm-12"><img src="/photos/2016-05-21-jasper/1.jpg" /></div>              
+	<a href="/photos/2016-05-21-jasper/1.jpg"><div class="col-sm-12"><img src="/photos/2016-05-21-jasper/1.jpg" /></div></a>
 </div>
 <br>
 
 I took advantage of my family sleeping in this morning to do a quick run to Pyramid Lake. 
 
 <div class="row">
-	<div class="col-sm-12"><img src="/photos/2016-05-21-jasper/2.jpg" /></div> 
+	<a href="/photos/2016-05-21-jasper/2.jpg"><div class="col-sm-12"><img src="/photos/2016-05-21-jasper/2.jpg" /></div></a>
 </div>    
 <center>Overlooking Jasper</center>
 <br>
 The lake is 6.5km from Jasper by car but I followed some trails leading out of Jasper so I'm not really sure how long the route is by trail. I followed the trail marked '2' the whole way.
 
 <div class="row">                                       
-    <div class="col-sm-12"><img src="/photos/2016-05-21-jasper/3.jpg" /></div>              
+    <a href="/photos/2016-05-21-jasper/3.jpg"><div class="col-sm-12"><img src="/photos/2016-05-21-jasper/3.jpg" /></div></a>              
 </div>
 <br>
 
 There are signs everywhere warning hikers to stay 30 metres away from the elk, but the elk seem to like chilling out right next to the trail. A couple times I looked up and realized there was an elk standing 10 metres away from me. I was always more startled than they were.
 
 <div class="row">                   
-<div class="col-sm-12"><img src="/photos/2016-05-21-jasper/4.jpg" /></div> 
+	<a href="/photos/2016-05-21-jasper/4.jpg"><img src="/photos/2016-05-21-jasper/4.jpg" /></a>
 </div>  
 <br>
 
 <div class="row">                   
-<div class="col-sm-12"><img src="/photos/2016-05-21-jasper/5.jpg" /></div> 
+	<a href="/photos/2016-05-21-jasper/5.jpg"><img src="/photos/2016-05-21-jasper/5.jpg" /></a>
 </div>  
 <center>I want to hike Pyramid Mountain now!</center>
 <br>
 
 <div class="row">                   
-<div class="col-sm-12"><img src="/photos/2016-05-21-jasper/6.jpg" /></div> 
+	<a href="/photos/2016-05-21-jasper/6.jpg"><img src="/photos/2016-05-21-jasper/6.jpg" /></div> 
 </div>  
 <br>
 

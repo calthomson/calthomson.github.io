@@ -2,7 +2,6 @@
 layout: post
 title:  "Portland"
 date:   2016-02-18 19:45:31 +0530
-categories: ["travel", "reading break", "life"]
 author: "Caledonia Thomson"
 ---
 

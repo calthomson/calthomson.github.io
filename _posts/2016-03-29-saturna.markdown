@@ -2,7 +2,6 @@
 layout: post
 title:  "Saturna Island"
 date:   2016-03-29 19:45:31 +0530
-categories: [travel, trips, gulf islands]
 author: "Caledonia Thomson"
 ---
 

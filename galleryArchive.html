@@ -1,0 +1,16 @@
+---
+layout: default
+title : Gallery Archive
+permalink: /gallery-archive/
+---
+
+{% for gallery in site.galleries %}
+	<div class="postTitle">
+		<a class='postLink' href="{{gallery.url}}">{{gallery.title}}</a>
+	</div>
+	<center>
+	<div  class="galleryDate"><time datetime="{{ gallery.date | date_to_xmlschema }}" itemprop="datePublished">{{ gallery.date | date: "%b %-d, %Y" }}</time>
+  	</div>
+  	</center>
+	<br>
+{% endfor %}

@@ -687,16 +687,15 @@ pre {
     text-align: center;
 }
 
-.photo-gallery, .photo-gallery li {
-  list-style: none;
-  padding: 0;
-}
-
-.photo-gallery li {
-  display: inline-block;
-  width: 33%;
-}
-
-.photo-gallery li img {
+.photo-gallery a {
   width: 200px;
+  height: 200px;
+  // margin-bottom: 50px;
+  overflow: hidden;
+}
+
+.photo-gallery img {
+  min-height: 100%;
+  min-width: 100%;
+  margin-bottom: 20px;
 }

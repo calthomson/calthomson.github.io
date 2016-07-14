@@ -2,7 +2,6 @@
 layout: post
 title:  "Permaculture Meetup"
 date:   2016-05-25 19:45:31 +0530
-categories: [meetups, gardening]
 author: "Caledonia Thomson"
 ---
 
