@@ -157,20 +157,17 @@ a {
 
     &:hover {
         color: black !important;
-        border-bottom: 1px dotted black ;
     }
 
     &.page-link{
       &:hover {
           color: $text-color;
-          border-bottom: 1px dotted black ;
       }
     }
     &.postLink{
       color: black !important;
       &:hover {
-
-          border-bottom: 1px dotted black ;
+        font-weight: 600;
       }
 
       &:visited {
@@ -180,8 +177,7 @@ a {
     &.post-title-link{
       color: black !important;
       &:hover {
-
-          border-bottom: 1px dotted black !important ;
+        font-weight: 600;
       }
 
       &:visited {
