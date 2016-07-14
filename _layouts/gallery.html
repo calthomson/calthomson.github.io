@@ -31,12 +31,22 @@ layout: default
   {% endfor %}
 </ul> -->
 
+<!-- <ul class="photo-gallery">
+  {% for image in site.static_files %}
+    {% if image.path contains {{page.photoDir}} %}
+        <div class="col-sm-4 col-xs-6">
+          <a href="{{image.path}}"><img src="{{image.path}}"></a>
+          <br>
+        </div>
+    {% endif %}
+  {% endfor %}
+</ul> -->
+
 <ul class="photo-gallery">
   {% for image in site.static_files %}
     {% if image.path contains {{page.photoDir}} %}
-        <div class="col-sm-4">
+        <div class="imgBox">
           <a href="{{image.path}}"><img src="{{image.path}}"></a>
-          <br>
         </div>
     {% endif %}
   {% endfor %}

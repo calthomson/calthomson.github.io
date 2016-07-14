@@ -687,11 +687,11 @@ pre {
     text-align: center;
 }
 
-.photo-gallery a {
+.photo-gallery .imgBox {
   width: 200px;
   height: 200px;
-  // margin-bottom: 50px;
   overflow: hidden;
+  display: inline-block;
 }
 
 .photo-gallery img {
