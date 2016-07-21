@@ -40,7 +40,7 @@ There are signs everywhere warning hikers to stay 30 metres away from the elk, b
 <br>
 
 <div class="row">                   
-	<a href="/photos/2016-05-21-jasper/6.jpg"><img src="/photos/2016-05-21-jasper/6.jpg" /></div> 
+	<a href="/photos/2016-05-21-jasper/6.jpg"><img src="/photos/2016-05-21-jasper/6.jpg" /></a> 
 </div>  
 <br>
 
