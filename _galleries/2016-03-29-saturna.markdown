@@ -1,7 +1,0 @@
----
-layout: gallery
-title:  "Saturna Island"
-photoDir: /photos/2016-03-29-saturna/
-date:   2016-03-29 19:45:31 +0530
-author: "Caledonia Thomson"
----

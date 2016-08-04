@@ -30,7 +30,7 @@ This week we went to Saltspring Island! The trip was a suprise, Parker planned i
 <br>
 </div>
 
-Our host at Moontide gave us an amazing breakfast every morning in her gorgeous home.
+Our host at Moontide gave us breakfast every morning in her beautiful home.
 
 <div class="row">                   
 	<a href="http://i58.photobucket.com/albums/g278/calthomson/6_zpsoewv5rlw.jpg"><img src="http://i58.photobucket.com/albums/g278/calthomson/6_zpsoewv5rlw.jpg" /></a>

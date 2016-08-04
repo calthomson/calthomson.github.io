@@ -1,6 +1,0 @@
----
-layout: gallery
-title:  "Portland"
-photoDir: /photos/2016-02-18-portland/
-date:   2016-02-18 19:45:31 +0530
----
