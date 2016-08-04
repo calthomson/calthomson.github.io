@@ -7,6 +7,7 @@ author: "Caledonia Thomson"
 
 This week we went to Saltspring Island! The trip was a suprise, Parker planned it and didn't tell me where we were going. We stayed at Moontide farm in a super cool, mini two story cabin.
 
+<div class="col-sm-6">
 <div class="row">
 	<a href="http://i58.photobucket.com/albums/g278/calthomson/1_zpsoavpqlyz.jpg"><div class="col-sm-12"><img src="http://i58.photobucket.com/albums/g278/calthomson/1_zpsoavpqlyz.jpg" /></div></a>
 </div>
@@ -20,10 +21,14 @@ This week we went to Saltspring Island! The trip was a suprise, Parker planned i
 <div class="row">
 	<a href="http://i58.photobucket.com/albums/g278/calthomson/3_zps3wwj9v4o.jpg"><div class="col-sm-12"><img src="http://i58.photobucket.com/albums/g278/calthomson/3_zps3wwj9v4o.jpg" /></div></a>
 </div>
-<br>
+</div>
 
-<center><a href="http://i58.photobucket.com/albums/g278/calthomson/4_zpsadtghqdj.jpg"><img width="250px" src="http://i58.photobucket.com/albums/g278/calthomson/4_zpsadtghqdj.jpg" /></a></center>
+<div class="col-sm-6">
+<center>
+<a href="http://i58.photobucket.com/albums/g278/calthomson/4_zpsadtghqdj.jpg"><img width="203px" src="http://i58.photobucket.com/albums/g278/calthomson/4_zpsadtghqdj.jpg" /></a>
+</center>
 <br>
+</div>
 
 Our host at Moontide gave us an amazing breakfast every morning in her gorgeous home.
 
