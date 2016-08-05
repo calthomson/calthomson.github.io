@@ -8,7 +8,7 @@ author: "Caledonia Thomson"
 Valentines Weekend in Portland
 
 <div class="row">
-    <div class="col-sm-12"><img src="/photos/2016-02-18-portland/1.jpg" /></div>              
+    <div class="col-sm-12"><img src="http://res.cloudinary.com/vegemitesoup-com/image/upload/v1470369340/1_nplpgn.jpg" /></div>           
 </div>
 <br>
 
