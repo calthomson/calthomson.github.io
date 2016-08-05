@@ -9,7 +9,7 @@ This Wednesday Maggie and I went to a <a href="http://www.meetup.com/The-Vancouv
 
 She did graphic recording for the meeting:
 
-<img src="/photos/2016-05-25-permaculture/2016-05-25 07.08.48 1.jpg" alt="Graphic Recording" style="width:100%">
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470373773/permaculture/2016-05-25_07.08.48_1.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470373773/permaculture/2016-05-25_07.08.48_1.jpg" alt="Graphic Recording" style="width:100%"></a>
 
 We sat in the communtiy garden and discussed using available energy such as rain, sun and homegrown compost instead of turning on the tap or buying fertilizer. Basically keeping existing energy within the system instead of sending it out and then bringing in different energy as we typically do nowadays. 
 
