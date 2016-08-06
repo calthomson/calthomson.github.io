@@ -20,12 +20,12 @@ I always feel excited when I’m up doing things that early, like I’m cheating
 <div class="row">
   <div class="col-sm-4">
     <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371775/saturna/12919540_10156704558270006_1085881501_o-2.jpg">
-    	<center><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371775/saturna/12919540_10156704558270006_1085881501_o-2.jpg" alt="Sleepy"></center><br>
+    	<center><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371775/saturna/12919540_10156704558270006_1085881501_o-2.jpg" alt="Sleepy"></center><br>
     </a>
   </div>
   <div class="col-sm-8">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.49.50_1.jpg">
-    	<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.49.50_1.jpg" alt="Sunrise on the Ferry">
+    	<img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.49.50_1.jpg" alt="Sunrise on the Ferry">
     </a>
   </div>
 </div>
@@ -36,7 +36,7 @@ The sky became more clear as we got closer to Swartz Bay and by the time we got 
 We got to the island around 10AM and hopped on our bikes, headed for East Point. The route from the ferry terminal to East Point is 34km, round trip.
 
 <b><center>Saturna Island
-<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371775/saturna/map-of-saturna.jpg" alt="Map of Saturna Island" style="width:100%" align="middle">
+<img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371775/saturna/map-of-saturna.jpg" alt="Map of Saturna Island" style="width:100%" align="middle">
 </center></b><br>
 
 
@@ -46,7 +46,7 @@ We got to East Point in about an hour and a half. We found a trail to the shore,
 
 <center>
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.37.53_1.jpg">
-<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.37.53_1.jpg" alt="Arrival at East Point" style="width:75%" align="middle">
+<img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.37.53_1.jpg" alt="Arrival at East Point" style="width:75%" align="middle">
 </a>
 </center><br>
 
@@ -54,7 +54,7 @@ We met a friendly Saturna local, David. He asked us if we were vegetarians and t
 
 <center>
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.49.54_1.jpg">
-		<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.49.54_1.jpg" alt="Parker Meets David" style="width:75%" align="middle">
+		<img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.49.54_1.jpg" alt="Parker Meets David" style="width:75%" align="middle">
 	</a>
 </center><br>
 
@@ -62,53 +62,53 @@ There were a few other visitors at East Point, but mainly local residents, AKA a
 
 <center>
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.49.49_1.jpg">
-<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.49.49_1.jpg" alt="The Old Lighthouse" style="width:75%" align="middle"></a></center><br>
+<img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.49.49_1.jpg" alt="The Old Lighthouse" style="width:75%" align="middle"></a></center><br>
 
 <center>
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.49.47_1.jpg">
-<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.49.47_1.jpg" alt="Playing on the Rocks" style="width:75%" align="middle"></a></center><br>
+<img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.49.47_1.jpg" alt="Playing on the Rocks" style="width:75%" align="middle"></a></center><br>
 
 <center>
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371775/saturna/2016-03-25_12.28.45_1.jpg">
-<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371775/saturna/2016-03-25_12.28.45_1.jpg" alt="Terrorizing the Wildlife" style="width:75%" align="middle"></a><br>
+<img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371775/saturna/2016-03-25_12.28.45_1.jpg" alt="Terrorizing the Wildlife" style="width:75%" align="middle"></a><br>
 <i>Terrorizing the Wildlife</i></center><br>
 
 After waking up to sunburned faces we checked out the small museum on the point, then grabbed our bikes and headed to the viewpoint that David had mentioned. To get to the viewpoint you need to go west down Cliffside Road, until the T-intersection made by Cliffside and Fiddlers Road. Turn left and head down the small trail that kind of looks like someone’s private driveway. There’s a house down there but the viewpoint is to the right.
 
 <center>
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.45.25_1.jpg">
-<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.45.25_1.jpg" alt="The Road" style="width:75%" align="middle"></a></center><br>
+<img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371771/saturna/2016-03-25_02.45.25_1.jpg" alt="The Road" style="width:75%" align="middle"></a></center><br>
 
 <center>
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371773/saturna/2016-03-25_03.25.06_1.jpg">
-<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371773/saturna/2016-03-25_03.25.06_1.jpg" alt="A Beautiful View" style="width:75%" align="middle"></a>
+<img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371773/saturna/2016-03-25_03.25.06_1.jpg" alt="A Beautiful View" style="width:75%" align="middle"></a>
 </center><br>
 
 The ride back to the ferry terminal went by really quickly, and we grabbed a beer at the local (and probably only) pub. There was a moment of panic when Parker thought he had lost his wallet, which would have fitted in with our trend of losing things this trip seeing as I had left my fully loaded pannier in the middle of the road by his house the night before.. (thankfully a kind stranger found it and immediately contacted me on Facebook to return it before we had driven very far)
 
 <center>
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371773/saturna/2016-03-25_03.44.59_1.jpg">
-<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371773/saturna/2016-03-25_03.44.59_1.jpg" alt="Speending Back to the Ferry Terminal" style="width:75%" align="middle"></a></center><br>
+<img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371773/saturna/2016-03-25_03.44.59_1.jpg" alt="Speending Back to the Ferry Terminal" style="width:75%" align="middle"></a></center><br>
 
 <center>
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371773/saturna/2016-03-25_04.44.00_1.jpg">
-<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371773/saturna/2016-03-25_04.44.00_1.jpg" alt="Downtown Saturna" style="width:75%" align="middle"></a>
+<img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371773/saturna/2016-03-25_04.44.00_1.jpg" alt="Downtown Saturna" style="width:75%" align="middle"></a>
 </center><br>
 
 <center>
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371773/saturna/2016-03-25_04.56.16_2.jpg">
-<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371773/saturna/2016-03-25_04.56.16_2.jpg" alt="Yummy Beer" style="width:75%" align="middle"></a>
+<img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371773/saturna/2016-03-25_04.56.16_2.jpg" alt="Yummy Beer" style="width:75%" align="middle"></a>
 </center><br>
 
 <center>
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371775/saturna/2016-03-25_06.25.01_1.jpg">
-<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371775/saturna/2016-03-25_06.25.01_1.jpg" alt="Sunset on the Water" style="width:75%" align="middle"></a>
+<img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371775/saturna/2016-03-25_06.25.01_1.jpg" alt="Sunset on the Water" style="width:75%" align="middle"></a>
 </center><br>
 
 The ferry showed up around 6:45PM, and we started the trip home. For anyone who wants to make this trip, the ferry ticket system is a bit weird. There’s no place to purchase your ticket on Saturna, we were told to buy them on the ferry from Saturna. One of the ferry hands gave us some passes but when we gave them to the guys on the ferry at Swartz Bay they told us that those kinds of tickets were discontinued, but still let us on. We never paid for anything with the return tickets. We noticed that every cyclist getting on gave a different kind of ticket, so it seems like the system isn’t super uniform.
 
 We napped on the ferry and got into Tsawwassen around 10:00PM, biked home and passed out. (OK, we watched like half an hour of The Simpsons movie..)
 
-<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371776/saturna/spider-pig.jpg" alt="Spider Pig"><br>
+<img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371776/saturna/spider-pig.jpg" alt="Spider Pig"><br>
 
 -Caledonia
