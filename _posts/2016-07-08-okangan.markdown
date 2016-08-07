@@ -6,13 +6,12 @@ author: "Caledonia Thomson"
 ---
 
 This week we visited Salmon Arm, Sicamous and Kelowna.
-
 <div class="row vertical-align">
 <div class="col-sm-8 col-xs-12">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/2.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/2.jpg" /></a>   
 </div>
 <div class="col-sm-4 col-xs-12">
-My awesome, soon-to-be the next Bill Nye sister graduated highschool! Parker and I drove to Salmon Arm to surpise her for the graduation ceremony. Congrautlations on your calculations Wallis :D
+My awesome, soon-to-be the next Bill Nye sister graduated highschool! Parker and I drove to Salmon Arm to surpise her for the graduation ceremony. Congratulations on your calculations Wallis :D
 </div>
 </div>
 
