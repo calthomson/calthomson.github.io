@@ -104,7 +104,10 @@ img {
     vertical-align: middle;
 }
 
-
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
 
 /**
  * Figures
