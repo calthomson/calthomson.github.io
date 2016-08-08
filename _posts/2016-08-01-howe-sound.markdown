@@ -6,7 +6,7 @@ author: "Caledonia Thomson"
 ---
 
 <div class="row">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/3.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/3.jpg" /></a>   
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/6.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/6.jpg" /></a>   
 </div>
 
 This August long weekend Parker and I tested out the backpacking gear we've scraped together and did an overnight trip along the Howe Sound Crest Trail. Our starting point was Cypress Mountain, our destination Magnesia Meadows. It's a 14.5km hike per day.
@@ -21,7 +21,7 @@ After St. Mark's Summit the trail went straight down into a super foggy valley. 
 </div>
 
 <div class="col-sm-4 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/2.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/2.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/a_auto_right/v1470631135/howe-sound-crest/DSC05925.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/a_auto_right/v1470631135/howe-sound-crest/DSC05925.jpg" /></a>
 </div>
 
 <div class="col-sm-4 col-xs-12"> 
@@ -36,6 +36,10 @@ After 45 minutes it doesn't even feel like you're going uphill anymore. Embrace 
 </div>
 
  The family was right. There's at least 3 points where you think you've made it to the top but it just keeps going. It's worth it though, because the view is incredible! Once you're at the very top you climb right back down, in order to continue on to the Lions. 
+
+<div class="row">                   
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/0.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/0.jpg" /></a> 
+</div>  
 
 <div class="row">
 <div class="col-sm-6 col-xs-12">
@@ -111,14 +115,14 @@ Bug nets highly recommended!
 </div>
 
 <div class="row">                   
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/0.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/0.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/18.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/18.jpg" /></a> 
 </div>  
 
 We had pancakes for breakfast, made more inukshuks, and climbed back up the Indiana Jones ropes. My craigslist hiking boots totally murdered my ankles on the trip back down. Everything hurt that night, but it was 100% worth it.
 
 <div class="row">
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/6.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/6.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470664970/howe-sound-crest/DSC06005.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470664970/howe-sound-crest/DSC06005.jpg" /></a>
 </div>
 <div class="col-sm-6 col-xs-12">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/21.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/21.jpg" /></a>
