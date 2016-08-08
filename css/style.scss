@@ -104,9 +104,17 @@ img {
     vertical-align: middle;
 }
 
+/* Extra small devices (767px and down) */
+@media (max-width: 767px) { 
+  .row.vertical-align {
+      display: block; /* turn off the flexible box layout */
+  }
+}
+
 .vertical-align {
     display: flex;
     align-items: center;
+    table-layout: fixed;
 }
 
 /**
