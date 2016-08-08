@@ -50,10 +50,10 @@ Valentines Weekend in Portland
 </div>     
 
 <div class="row">
-	<div class="col-sm-6 col-xs-6">                 
+	<div class="col-sm-6 col-xs-12">                 
     	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/6.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/6.jpg" /></a>    
     </div>
-    <div class="col-sm-6 col-xs-6">                    
+    <div class="col-sm-6 col-xs-12">                    
     	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/7.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/7.jpg" /></a>  
     </div>            
 </div>
@@ -71,10 +71,10 @@ Valentines Weekend in Portland
 </div>     
 
 <div class="row">
-	<div class="col-sm-6 col-xs-6"> 
+	<div class="col-sm-6 col-xs-12"> 
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/10.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/10.jpg" /></a> 
 	</div>
-	<div class="col-sm-6 col-xs-6"> 
+	<div class="col-sm-6 col-xs-12"> 
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/12.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/12.jpg" /></a>
 	</div>
 </div>     
