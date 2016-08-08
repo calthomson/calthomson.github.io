@@ -5,7 +5,7 @@ date:   2016-08-01
 author: "Caledonia Thomson"
 ---
 
-<div class="row">
+<div class="row vertical-align">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/6.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/6.jpg" /></a>   
 </div>
 
@@ -15,7 +15,7 @@ We got on the trail a bit later than anticipated, and there were already lots of
 
 After St. Mark's Summit the trail went straight down into a super foggy valley. We ran into a family who gave us a tip: "When you think you've reach the top of Mt. Unecessary.. you haven't". Hm, interesting choice, ominous family.
 
-<div class="row">
+<div class="row vertical-align">
 <div class="col-sm-4 col-xs-12">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/1.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/1.jpg" /></a>
 </div>
@@ -31,17 +31,17 @@ After 45 minutes it doesn't even feel like you're going uphill anymore. Embrace 
 </div>
 </div>
 
-<div class="row">
+<div class="row vertical-align">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/3.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/3.jpg" /></a>   
 </div>
 
  The family was right. There's at least 3 points where you think you've made it to the top but it just keeps going. It's worth it though, because the view is incredible! Once you're at the very top you climb right back down, in order to continue on to the Lions. 
 
-<div class="row">                   
+<div class="row vertical-align">                   
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/0.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/0.jpg" /></a> 
 </div>  
 
-<div class="row">
+<div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/8.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/8.jpg" /></a>
 </div>
@@ -53,7 +53,7 @@ After 45 minutes it doesn't even feel like you're going uphill anymore. Embrace 
 
 <center>Parker is addicted to Inukshuks.</center>
 
-<div class="row">
+<div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/9.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/9.jpg" /></a>
 </div>
@@ -65,11 +65,11 @@ After 45 minutes it doesn't even feel like you're going uphill anymore. Embrace 
 
 Climbing down the other side of Mt. Unecessary is the most technical part of the trail between Cypress and the Lions- you get to Indiana Jones down some ropes!
 
-<div class="row">                   
+<div class="row vertical-align">                   
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/5.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/5.jpg" /></a>
 </div> 
 
-<div class="row">
+<div class="row vertical-align">
 <div class="col-sm-7 col-xs-12">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/12.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/12.jpg" /></a>
 	We reached the Lions, had lunch, took a nap (as always), and listened to the dialogs of people trying to stay positive while fearing for their lives as they precariously descended from the West Lion's peak- a climb that is more like rock climbing than hiking, and probably should not be done in sneakers..
@@ -82,7 +82,7 @@ Climbing down the other side of Mt. Unecessary is the most technical part of the
 
 Magnesia Meadows is ~4km past the Lions, but a group coming from that direction told us that it took 4 hours to traverse that section of the trail. We decided to hike back to get water from some pools we had seen earlier, and set up camp on a ridge overlooking Howe Sound. Bowen Island was in the distance and we could see the ferries going back and forth between Horseshoe Bay and the Sunshine Coast. We could also see Vancouver to the south-east. From the crest you can see both the sunrise and the sunset.
 
-<div class="row">
+<div class="row vertical-align">
 <div class="col-sm-4 col-xs-12">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/14.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/14.jpg" /></a>
 Bug nets highly recommended!
@@ -92,11 +92,11 @@ Bug nets highly recommended!
 </div>
 </div>
 
-<div class="row">                   
+<div class="row vertical-align">                   
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/13.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/13.jpg" /></a> 
 </div>  
 
-<div class="row">
+<div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/16.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/16.jpg" /></a>
 </div>
@@ -105,7 +105,7 @@ Bug nets highly recommended!
 </div>
 </div>
 
-<div class="row">
+<div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/17.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/17.jpg" /></a>
 </div>
@@ -114,13 +114,13 @@ Bug nets highly recommended!
 </div>
 </div>
 
-<div class="row">                   
+<div class="row vertical-align">                   
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/18.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/18.jpg" /></a> 
 </div>  
 
 We had pancakes for breakfast, made more inukshuks, and climbed back up the Indiana Jones ropes. My craigslist hiking boots totally murdered my ankles on the trip back down. Everything hurt that night, but it was 100% worth it.
 
-<div class="row">
+<div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470664970/howe-sound-crest/DSC06005.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470664970/howe-sound-crest/DSC06005.jpg" /></a>
 </div>
