@@ -19,5 +19,5 @@ instagram_username: calrthom
 markdown: kramdown
 
 collections:
-  random:
+  inbetween:
     output: true
