@@ -66,6 +66,15 @@ I steered the canoe on the trip back. No further comment about how that went.
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470411692/widgeon/11.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470411692/widgeon/11.jpg" /></a>
 
+
+<div class="row vertical-align"> 
+<div class="col-sm-6 col-xs-12">                  
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470728656/widgeon/DSC05763.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470728656/widgeon/DSC05763.jpg" /></a>
+</div>  
+
+<div class="col-sm-6 col-xs-12">                   
 There is a canoe/kayak shop at Grant Narrow vertical-aligns where you can rent for the day or overnight if you don't have your own boat. From the first campsite it is possible to hike to Widgeon Lake which also seems like a cool place to camp or fish.
+</div>
+</div>
 
 -Cal
