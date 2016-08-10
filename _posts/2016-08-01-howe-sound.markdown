@@ -1,14 +1,11 @@
-<meta property="og:url"                content="http://vegemitesoup.com/2016/08/01/howe-sound.html" />
-<meta property="og:type"               content="post" />
-<meta property="og:title"              content="Howe Sound Crest Trail" />
-<meta property="og:description"        content="Backpacking on the Howe Sound Crest Trail" />
-<meta property="og:image"              content="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/5.jpg" />
-
 ---
 layout: post
 title:  "Howe Sound Crest Trail"
 date:   2016-08-01
 author: "Caledonia Thomson"
+url: "http://vegemitesoup.com/2016/08/01/howe-sound.html"
+image: "http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/5.jpg"
+description: "Backpacking on the Howe Sound Crest Trail"
 ---
 
 <div class="row vertical-align">

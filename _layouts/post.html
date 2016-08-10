@@ -12,13 +12,27 @@ layout: default
      </div>
      {% endif %}
    </center>
+
+    <meta property="og:url"                content="{{ page.url }}" />
+    <meta property="og:type"               content="Post" />
+    <meta property="og:title"              content="{{ page.url }}" />
+    <meta property="og:description"        content="{{ page.description }}" />
+    <meta property="og:image"              content="{{ page.image }}" />
+
   </header>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
+
+    <div
+      class="fb-like"
+      data-share="true"
+      data-width="450"
+      data-show-faces="true">
+    </div>
+
+    {% include disqus.html %}
   </div>
-  
-  {% include disqus.html %}
 
   {% include scripts.html %}
 
