@@ -3,9 +3,11 @@ layout: post
 title:  "Portland"
 date:   2016-02-18 19:45:31 +0530
 author: "Caledonia Thomson"
+thumbnail: "http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/1.jpg"
+description: "A Valentines Weekend in Portland, Oregon"
 ---
 
-Valentines Weekend in Portland
+A Valentines Weekend in Portland, Oregon.
 
 <div class="row">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/1.jpg">

@@ -3,6 +3,8 @@ layout: post
 title:  "Okanagan"
 date:   2016-07-08
 author: "Caledonia Thomson"
+thumbnail: "http://res.cloudinary.com/vegemitesoup/image/upload/v1470606850/Okanagan/flowers.jpg"
+description: "A roadtrip to Salmon Arm, Sicamous, & Kelowna"
 ---
 
 This week we visited Salmon Arm, Sicamous and Kelowna.

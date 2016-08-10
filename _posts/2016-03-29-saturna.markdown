@@ -3,6 +3,8 @@ layout: post
 title:  "Saturna Island"
 date:   2016-03-29 19:45:31 +0530
 author: "Caledonia Thomson"
+thumbnail: "http://res.cloudinary.com/vegemitesoup/image/upload/v1470371779/saturna/IMG_20160325_152607-2.jpg"
+description: "Cycling around Saturna Island"
 ---
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371779/saturna/IMG_20160325_152607-2.jpg">

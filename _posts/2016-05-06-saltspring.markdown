@@ -3,6 +3,8 @@ layout: post
 title:  "Saltspring"
 date:   2016-05-06 19:45:31 +0530
 author: "Caledonia Thomson"
+thumbnail: "http://i58.photobucket.com/albums/g278/calthomson/slowdown_zpsrxse8hve.jpg"
+description: "Slow down it’s Saltspring ✌"
 ---
 
 This week we went to Saltspring Island! The trip was a suprise, Parker planned it and didn't tell me where we were going. We stayed at Moontide farm in a super cool, mini two story cabin.

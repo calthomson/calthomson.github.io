@@ -3,6 +3,8 @@ layout: post
 title:  "Jasper"
 date:   2016-05-21
 author: "Caledonia Thomson"
+thumbnail: "http://res.cloudinary.com/vegemitesoup/image/upload/v1470370415/jasper/4.jpg"
+description: "A family trip to Jasper"
 ---
 
 This long weekend my family piled into the truck and drove to Jasper for our cousin's wedding.

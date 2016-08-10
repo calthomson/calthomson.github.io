@@ -3,6 +3,8 @@ layout: post
 title:  "Canada Day Camping"
 date:   2016-07-01 19:45:31 +0530
 author: "Caledonia Thomson"
+thumbnail: "http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/1.jpg"
+description: "Canada Day Camping at Strawberry Point"
 ---
 
 <div class="row vertical-align">

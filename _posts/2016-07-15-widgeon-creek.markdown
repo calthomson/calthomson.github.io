@@ -3,6 +3,8 @@ layout: post
 title:  "Widgeon Creek"
 date:   2016-07-15
 author: "Caledonia Thomson"
+thumbnail: "http://res.cloudinary.com/vegemitesoup/image/upload/v1470411692/widgeon/11.jpg"
+description: "A canoe trip up Widgeon creek"
 ---
 
 <div class="row vertical-align">
