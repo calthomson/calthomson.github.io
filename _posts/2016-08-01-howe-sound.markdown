@@ -4,7 +4,7 @@ title:  "Howe Sound Crest Trail"
 date:   2016-08-01
 author: "Caledonia Thomson"
 url: "http://vegemitesoup.com/2016/08/01/howe-sound.html"
-excerpt: "http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/5.jpg"
+image: "http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/5.jpg"
 description: "Backpacking on the Howe Sound Crest Trail"
 ---
 
