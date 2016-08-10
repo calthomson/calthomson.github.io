@@ -68,8 +68,12 @@ We got to Strawberry Point after driving down In-Shuck-Ch Forest Service Road fo
 </div>
 
 <div class="col-sm-5 col-xs-12"> 
-Summary: sleeping, drinking, pancakes, marshmallows, hammocking, cards, beer pong, dancing, fire and dunking in the frigid lake water. Also carrying a lot of stuff.
+Summary: sleeping, drinking, pancakes, marshmallows, hammocking, cards, beer pong, dancing, fire and jumping in the frigid lake. Also carrying a lot of stuff. Oh yeah, there was also a runaway canoe rescue.
 </div>
+</div>
+
+<div class="row vertical-align">
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470796104/DSC04398.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470796104/DSC04398.jpg" /></a>
 </div>
 
 <div class="row vertical-align">
