@@ -1,3 +1,9 @@
+<meta property="og:url"                content="http://vegemitesoup.com/2016/08/01/howe-sound.html" />
+<meta property="og:type"               content="post" />
+<meta property="og:title"              content="Howe Sound Crest Trail" />
+<meta property="og:description"        content="Backpacking on the Howe Sound Crest Trail" />
+<meta property="og:image"              content="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/5.jpg" />
+
 ---
 layout: post
 title:  "Howe Sound Crest Trail"
