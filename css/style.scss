@@ -773,7 +773,9 @@ pre {
 .right-nav {
   display: inline-block;
   float: right;
-  font-weight: bold;
+  &:hover {
+    font-weight: bold;
+  }
 }
 
 .photo-gallery .imgBox {
