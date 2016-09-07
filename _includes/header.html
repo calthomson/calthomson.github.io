@@ -2,28 +2,21 @@
 <div class="wrapper">
   <center><div class="site-title"><a href="/"><img src="/vegemite_soup.png" /></a></div></center>
 </div>
-<div class="wrapper site-description">
-<center>  {{site.description}} </center>
-</div>
-<br>
 <div class="wrapper">
-  <nav class="navbar navbar-default">
-    <div class="container-fluid">
-      <center>
-      <ul class="nav navbar-nav">
-          <li><a class="page-link" href="/index.html">Home</a></li>
-          <li><a class="page-link" href="/archive.html">Archive</a></li>
-          
-          {% for sitePage in site.pages %}
-          {% if sitePage.title %}
-
-            <li><a class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a></li>
-          
-          {% endif %}
-          {% endfor %}
+  <div class="container-fluid">
+    <center>
+    <ul class="navbar">
+      <div class="right-nav">
+        <a class="page-link" href="/index.html">Home</a><a class="page-link" href="/archive.html"> • Archive</a>
         
-      </ul>
-      </center>
-    </div>
-  </nav>
+        {% for sitePage in site.pages %}
+        {% if sitePage.title %}
+          <a class="page-link" href="{{sitePage.url | prepend: site.baseurl }}"> • {{sitePage.title}}</a>
+        
+        {% endif %}
+        {% endfor %}
+      </div>      
+    </ul>
+    </center>
+  </div>
 </div>

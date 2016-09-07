@@ -172,7 +172,8 @@ a {
 
     &.page-link{
       &:hover {
-          color: $text-color;
+          color: rgb(100, 100, 100);
+          text-decoration: none;
       }
     }
     &.postLink{
@@ -762,11 +763,17 @@ pre {
 
 .navbar .navbar-nav {
     display: inline-block;
-    float: none;
+    float: right;
 }
 
 .navbar .navbar-collapse {
     text-align: center;
+}
+
+.right-nav {
+  display: inline-block;
+  float: right;
+  font-weight: bold;
 }
 
 .photo-gallery .imgBox {
