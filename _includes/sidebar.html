@@ -1,26 +1,27 @@
-<div class="sidebar well">
-    <a href="/archive"><h3>Recent Posts</h3><a>
-    <ul>
-        {% for post in site.posts limit:10 %}
-          <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-    </ul>
-</div>
+<div class="sidebar-container sticker">
+	<div class="sidebar">
+	    <a href="/archive"><h3>Recent Posts</h3><a>
+	    <ul>
+	        {% for post in site.posts limit:10 %}
+	          <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+	        {% endfor %}
+	    </ul>
+	</div>
 
-<div class="sidebar well">
-	<a href="/archive"><h3>Archive</h3></a>
-	<div class="sidebar-module">
-	  <h4>{{ site.locales[site.default_locale].Archives }}</h4>
-
-	  {% for post in site.posts %}
-	  {% capture this_month %}{{ post.date | date: "%B %Y" }}{% endcapture %}
-	  {% unless month == this_month %}
-	  {% assign month = this_month %}
-	  {% unless post == site.posts.first %}
-	  {% endunless %}
-	  <li id="{{ month }}" > <a href="{{ site.baseurl }}/archive/#{{month}}">{{ month }}</a></li>
-	  {% endunless %}
-	  {% endfor %}
-
+	<div class="sidebar">
+		<a href="/archive"><h3>Archive</h3></a>
+		<div class="sidebar-module">
+		<ul>
+		  {% for post in site.posts %}
+		  {% capture this_month %}{{ post.date | date: "%B %Y" }}{% endcapture %}
+		  {% unless month == this_month %}
+		  {% assign month = this_month %}
+		  {% unless post == site.posts.first %}
+		  {% endunless %}
+		  	<li id="{{ month }}" > <a href="{{ site.baseurl }}/archive/#{{month}}">{{ month }}</a></li>
+		  {% endunless %}
+		  {% endfor %}
+		</ul>
+		</div>
 	</div>
 </div>

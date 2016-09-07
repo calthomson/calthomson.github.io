@@ -714,7 +714,7 @@ pre {
     .ge    { font-style: italic } // Generic.Emph
     .gr    { color: #a00 } // Generic.Error
     .gh    { color: #999 } // Generic.Heading
-    .gi    { color: #000; background-color: #dfd } // Generic.Inserted
+    .gi    { color: #000; background-color: #dfd } // Generic.Insertedsu
     .gi .x { color: #000; background-color: #afa } // Generic.Inserted.Specific
     .go    { color: #888 } // Generic.Output
     .gp    { color: #555 } // Generic.Prompt
@@ -787,4 +787,16 @@ pre {
   min-height: 100%;
   min-width: 100%;
   margin-bottom: 20px;
+}
+
+.sidebar {
+  padding: 10px;
+
+  ul {
+    font-size: 13px;
+  }
+}
+
+.sidebar-container {
+  position: fixed;
 }
