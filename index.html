@@ -2,35 +2,28 @@
 layout: default
 ---
 
-<div class="home">
+{% for post in paginator.posts %}
+<div class="homeExcerpt">
+<a href="{{ site.baseurl }}{{ post.url }}">
+  <div class="postContainer">
+    <div class="postExcerpt">
+      <h1 class="post-title">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          {{ post.title }}
+        </a>
+      </h1>
 
-
-  {% for post in site.posts%}
-  {% capture this_month %}{{ post.date | date: "%B %Y" }}{% endcapture %}
-  {% unless month == this_month %}
-  {% assign month = this_month %}
-  {% unless post == site.posts.first %}
-  {% endunless %}
-  <div class="monthTitle" id="{{ month }}">{{ month }}</div>
-  {% endunless %}
-  <div class="row vertical-align">
-    <div class="col-sm-2 col-xs-12">
-      <div class="postThumbnail">
-        <a href="{{post.url}}"><img class="thumbnail" src="{{post.thumbnail}}" /></a>
-      </div>
+      <span class="post-date">{{ post.date | date: '%b %-d, %Y' }}</span>
     </div>
-    <div class="col-sm-10 col-xs-12">
-      <div class="post postContent">
-        <div class="postTitle">
-        <a class='postLink' href="{{post.url}}">{{post.title}}</a>
-        </div>
-        <div class="postExt">
-        {% if post.description %}{{ post.description | escape }}{% else %}{{ post.content | strip_html | truncatewords:20}}{% endif %}
-        </div>
-      </div>
-    </div>
+    {{ post.excerpt }}
+      {% if post.content contains site.excerpt_separator %}
+        <div class="fadeout"></div>
+      {% endif %}
   </div>
-
-
-  {% endfor %}
+  {% if post.content contains site.excerpt_separator %}
+    <a href="{{ site.baseurl }}{{ post.url }}"><center><div class="readMore">READ MORE</div></center></a>
+  {% endif %}
+</a>
 </div>
+<br><br>
+{% endfor %}

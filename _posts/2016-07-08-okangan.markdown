@@ -68,7 +68,8 @@ My awesome, soon-to-be the next Bill Nye sister graduated highschool! Parker and
 </div> 
 <div class="col-sm-7 col-xs-12">                  
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/15.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/15.jpg" /></a>
-</div>    
+</div>  
+<!--excerpt-->  
 </div>
 We visited the one and only Kayla Weber in Kelowna on our way back to Vancouver and ran into some confused deer who mistook downtown Kelowna for the great outdoors.
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606850/Okanagan/flowers.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606850/Okanagan/flowers.jpg" /></a>

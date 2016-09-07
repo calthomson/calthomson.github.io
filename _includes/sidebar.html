@@ -1,14 +1,14 @@
 <div class="sidebar well">
-    <h3>Recent Posts</h3>
+    <a href="/adventures"><h3>Recent Posts</h3><a>
     <ul>
-        {% for post in site.posts limit:5 %}
+        {% for post in site.posts limit:10 %}
           <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
 </div>
 
 <div class="sidebar well">
-	<h3>Archive</h3>
+	<a href="/adventures"><h3>Archive</h3></a>
 	<div class="sidebar-module">
 	  <h4>{{ site.locales[site.default_locale].Archives }}</h4>
 

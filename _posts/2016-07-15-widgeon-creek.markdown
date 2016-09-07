@@ -67,7 +67,7 @@ I steered the canoe on the trip back. No further comment about how that went.
 </div>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470411692/widgeon/11.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470411692/widgeon/11.jpg" /></a>
-
+<!--excerpt-->
 
 <div class="row vertical-align"> 
 <div class="col-sm-6 col-xs-12">                  

@@ -67,11 +67,11 @@ We cycled to the southern end of the island to Ruckle Provincial park and had lu
 <div class="col-sm-5 col-xs-12">      
 	<a href="http://i58.photobucket.com/albums/g278/calthomson/999_zpsupgq0rvr.jpg"><img class="lazy" data-original="http://i58.photobucket.com/albums/g278/calthomson/999_zpsupgq0rvr.jpg" /></a> 
 </div>
-
 <div class="col-sm-7 col-xs-12">
 	<a href="http://i58.photobucket.com/albums/g278/calthomson/12_zpsxmlmmbmi.jpg"><div class="col-sm-12"><img class="lazy" data-original="http://i58.photobucket.com/albums/g278/calthomson/12_zpsxmlmmbmi.jpg" /></div></a>
 </div>
 </div>
+<!--excerpt-->
 
 We had lunch at the Treehouse Cafe and hung out in sleepy Ganges.
 

@@ -1,6 +1,6 @@
 
 <div class="wrapper">
-  <center><div class="site-title"><img src="/vegemite_soup.png" /></div></center>
+  <center><div class="site-title"><a href="/"><img src="/vegemite_soup.png" /></a></div></center>
 </div>
 <div class="wrapper site-description">
 <center>  {{site.description}} </center>
@@ -11,7 +11,8 @@
     <div class="container-fluid">
       <center>
       <ul class="nav navbar-nav">
-          <li><a class="page-link" href="/index.html">Adventures</a></li>
+          <li><a class="page-link" href="/index.html">Home</a></li>
+          <li><a class="page-link" href="/adventures.html">Adventures</a></li>
           
           {% for sitePage in site.pages %}
           {% if sitePage.title %}

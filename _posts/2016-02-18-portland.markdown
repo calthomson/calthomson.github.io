@@ -33,6 +33,8 @@ A Valentines Weekend in Portland, Oregon.
 	</a>
 </div>
 
+<!--excerpt-->    
+
 <div class="row">          
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/4.jpg">
 		<img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/4.jpg" />
@@ -70,7 +72,7 @@ A Valentines Weekend in Portland, Oregon.
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/9.jpg">
 		<img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/9.jpg" />
 	</a>
-</div>     
+</div> 
 
 <div class="row">
 	<div class="col-sm-6 col-xs-12"> 

@@ -21,3 +21,8 @@ markdown: kramdown
 collections:
   inbetween:
     output: true
+
+excerpt_separator: "<!--excerpt-->"
+
+gems: ["jekyll-paginate"]
+paginate: 10
