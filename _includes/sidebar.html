@@ -1,5 +1,5 @@
 <div class="sidebar well">
-    <a href="/adventures"><h3>Recent Posts</h3><a>
+    <a href="/archive"><h3>Recent Posts</h3><a>
     <ul>
         {% for post in site.posts limit:10 %}
           <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
@@ -8,7 +8,7 @@
 </div>
 
 <div class="sidebar well">
-	<a href="/adventures"><h3>Archive</h3></a>
+	<a href="/archive"><h3>Archive</h3></a>
 	<div class="sidebar-module">
 	  <h4>{{ site.locales[site.default_locale].Archives }}</h4>
 
@@ -18,7 +18,7 @@
 	  {% assign month = this_month %}
 	  {% unless post == site.posts.first %}
 	  {% endunless %}
-	  <li id="{{ month }}" > <a href="{{ site.baseurl }}/index/#{{month}}">{{ month }}</a></li>
+	  <li id="{{ month }}" > <a href="{{ site.baseurl }}/archive/#{{month}}">{{ month }}</a></li>
 	  {% endunless %}
 	  {% endfor %}
 
