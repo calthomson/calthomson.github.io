@@ -12,6 +12,7 @@ This long weekend my family piled into the truck and drove to Jasper for our cou
 <div class="row">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470370415/jasper/1.jpg"><div class="col-sm-12"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470370415/jasper/1.jpg" /></div></a>
 </div>
+<!--excerpt-->
 
 I took advantage of my family sleeping in this morning to do a quick run to Pyramid Lake. 
 

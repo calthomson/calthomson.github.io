@@ -28,6 +28,7 @@ This week we went to Saltspring Island! The trip was a suprise, Parker planned i
 <a href="http://i58.photobucket.com/albums/g278/calthomson/4_zpsadtghqdj.jpg"><img class="lazy" data-original="http://i58.photobucket.com/albums/g278/calthomson/4_zpsadtghqdj.jpg" /></a>
 </div>
 </div>
+<!--excerpt-->
 Our host at Moontide gave us breakfast every morning in her beautiful home.
 
 <div class="row vertical-align">                   

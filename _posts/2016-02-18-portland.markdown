@@ -14,6 +14,7 @@ A Valentines Weekend in Portland, Oregon.
     	<img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/1.jpg" />
 	</a>
 </div>
+<!--excerpt-->
 
 <div class="row">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/11.jpg">
