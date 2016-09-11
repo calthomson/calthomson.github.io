@@ -1,0 +1,72 @@
+---
+layout: post
+title:  "Mojave Desert"
+date:   2016-08-29
+author: "Caledonia Thomson"
+thumbnail: "http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/11.jpg"
+description: "We drove through the desert in a van with no name (just kidding the van is called Plymouth)"
+---
+
+<div class="row vertical-align">
+<div class="col-sm-4 col-xs-12">
+	Into the Californian desert with no AC and porcelain skin. It was soo beautiful and SOOOOOO HOT. 
+</div>
+
+<div class="col-sm-8 col-xs-12">
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/3.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/3.jpg" /></a>
+</div>
+</div>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/2.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/2.jpg" /></a>
+
+ <!--excerpt-->
+
+<div class="row vertical-align">
+<div class="col-sm-7 col-xs-12">
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/5.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/5.jpg" /></a>
+</div>
+
+<div class="col-sm-5 col-xs-12">                   
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/9.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/9.jpg" /></a>
+</div>  
+</div>
+
+<div class="row vertical-align">                   
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/4.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/4.jpg" /></a> 
+</div>  
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/7.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/7.jpg" /></a>
+
+<div class="row vertical-align">
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/6.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/6.jpg" /></a>
+</div>
+
+<div class="row vertical-align">
+<div class="col-sm-6 col-xs-12">
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/10.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/10.jpg" /></a>
+</div>
+
+<div class="col-sm-6 col-xs-12">
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/11.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/11.jpg" /></a>
+</div>
+</div>
+
+<div class="row vertical-align">
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/12.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/12.jpg" /></a>
+</div>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/13.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/13.jpg" /></a>
+
+<div class="row vertical-align">                   
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/14.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/14.jpg" /></a> 
+</div>  
+
+ <div class="row vertical-align">                   
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/18.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/18.jpg" /></a> 
+</div>  
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/17.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/17.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/19.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/19.jpg" /></a>
+
+-Cal

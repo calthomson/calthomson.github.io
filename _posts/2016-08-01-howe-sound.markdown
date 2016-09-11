@@ -43,6 +43,8 @@ After 45 minutes it doesn't even feel like you're going uphill anymore. Embrace 
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/0.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/0.jpg" /></a> 
 </div>  
 
+<!--excerpt-->
+
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/8.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/8.jpg" /></a>
@@ -66,8 +68,6 @@ After 45 minutes it doesn't even feel like you're going uphill anymore. Embrace 
 </div>
 
 Climbing down the other side of Mt. Unecessary is the most technical part of the trail between Cypress and the Lions- you get to Indiana Jones down some ropes!
-
- <!--excerpt-->
 
 <div class="row vertical-align">                   
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/5.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/5.jpg" /></a>
