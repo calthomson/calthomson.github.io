@@ -21,11 +21,11 @@ description: "First day in the Grand Canyon: The Descent"
 	</div>
 </div>
 
-<!--excerpt-->
-
 For any other late planners headed to the Grand Canyon, show up to the backcountry office 1-2 hours before they open (at 8am), and it seems like you have a good chance of getting a permit, so long as it's not a long weekend/holiday etc. Apparently if you don't get it that day you'll be at the top of the list for the next day.
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/2.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/2.jpg" /></a>
+
+<!--excerpt-->
 
 We packed our bags in a mad rush and jumped on a shuttle to the trail head. As we approached the edge we caught glimpses of the canyon through the bus windows, but it didn't look real! More like a billboard on the side of the road, it was too big to believe! Grand Canyon Village is surrounded by forest so we didn't get a clear look until we were standing at the top of the South Kaibab Trail. AmAaAaZINGFIANFINGGGGGGG!
 

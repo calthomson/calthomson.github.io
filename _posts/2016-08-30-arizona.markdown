@@ -19,8 +19,6 @@ description: "A visit to Arizona's second biggest tourist attraction"
 	</div>
 </div>
 
-<!--excerpt-->
-
 <div class="row vertical-align">
 	<div class="col-sm-6 col-xs-12">
 		 So he dug a channel and diverted water from the lake and made his own river to put the bridge over! Guess he really wanted the bridge. When we saw the signs for Lake Havasu City we had to take a detour to see "one of Arizona's most popular tourist attractions", despite it being 60 miles out of our way..

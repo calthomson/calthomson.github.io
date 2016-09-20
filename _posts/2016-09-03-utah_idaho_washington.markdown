@@ -11,8 +11,6 @@ description: "The long road home"
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473961592/utah_idaho_washington/0.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473961592/utah_idaho_washington/0.jpg" /></a>
 
-<!--excerpt-->
-
 <center>We left the Grand Canyon in the midst of a lightning storm.</center>
 <br>
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473961592/utah_idaho_washington/2.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473961592/utah_idaho_washington/2.jpg" /></a>
@@ -25,6 +23,8 @@ description: "The long road home"
 		Parker realizing that we are over budget, no we're under budget, no we're over budget- what's the conversion rate again?
 	</div>
 </div>
+
+<!--excerpt-->
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473961592/utah_idaho_washington/4.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473961592/utah_idaho_washington/4.jpg" /></a> 
 
