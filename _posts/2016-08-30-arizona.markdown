@@ -47,28 +47,28 @@ description: "A visit to Arizona's second biggest tourist attraction"
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/7.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/7.jpg" /></a>
 
 <div class="row vertical-align">
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/8.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/8.jpg" /></a>
 	</div>
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		Parker mortally injured this beetle at a gas station when he moved his leg into it's flight path. You feel a lot guiltier about accidentally killing bugs when they're the size of some small animals.
 	</div>
 </div>
 
 <div class="row vertical-align">
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		Accidentally stole two tent pegs from Walmart. Maybe I shouldn't write that on here.
 	</div>
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/9.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/9.jpg" /></a> 
 	</div>
 </div>
 
 <div class="row vertical-align">
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/13.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/13.jpg" /></a>
 	</div>
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		In Flagstaff we stayed at an Airbnb with some interesting wall decorations..
 	</div>
 </div>
@@ -76,10 +76,10 @@ description: "A visit to Arizona's second biggest tourist attraction"
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/10.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/10.jpg" /></a> 
 
 <div class="row vertical-align">
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/11.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/11.jpg" /></a>
 	</div>
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/12.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/12.jpg" /></a>
 	</div>
 </div>

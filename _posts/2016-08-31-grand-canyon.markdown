@@ -56,10 +56,10 @@ We started hiking at 10AM, precisely when the signs around the canyon warn peopl
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/7.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/7.jpg" /></a> 
 
 <div class="row vertical-align">
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-6">
 			The canyon just gets deeper.. every time you descend from one cliff, you end up at the top of another, looking out over a new valley full of different plants and colours!
 	</div>
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-6">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/8.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/8.jpg" /></a> 
 	</div>
 </div>
@@ -69,10 +69,10 @@ We started hiking at 10AM, precisely when the signs around the canyon warn peopl
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/9.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/9.jpg" /></a>
 
 <div class="row vertical-align">
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-6">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/10-1.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/10-1.jpg" /></a>
 	</div>
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-6">
 		It was hot, but not too hot, just hot enough for a little hysteria, not quite enough for heat exhaustion. At one point things became very, very bright, but for the most part we lucked out with the weather and didn't even need to drink all 9 litres of the water we packed down with us.
 	</div>
 </div>
@@ -82,10 +82,10 @@ We started hiking at 10AM, precisely when the signs around the canyon warn peopl
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/12.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/12.jpg" /></a>
 
 <div class="row vertical-align">
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-6">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/13.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/13.jpg" /></a>
 	</div>
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-6">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/14.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/14.jpg" /></a>
 	</div>
 </div>
@@ -93,10 +93,10 @@ We started hiking at 10AM, precisely when the signs around the canyon warn peopl
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/16.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/16.jpg" /></a>
 
 <div class="row vertical-align">
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-6">
 		Bright Angel campground is located at the very bottom of the canyon, between high cliffs of rock which, unfortunately, block any cool breezes. Thankfully the campground is surrounded by cottonwood trees, which was awesome after 11.4km of almost no shade on the South Kaibab trail. Needless to say, naps were in order.
 	</div>
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-6">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/17.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/17.jpg" /></a>
 	</div>
 </div>
@@ -104,17 +104,17 @@ We started hiking at 10AM, precisely when the signs around the canyon warn peopl
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/18.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/18.jpg" /></a>
 
 <div class="row vertical-align">
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-6">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/19.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/19.jpg" /></a>	</div>
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-6">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/20.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/20.jpg" /></a>
 	</div>
 </div>
 
 <div class="row vertical-align">
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-6">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/21.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/21.jpg" /></a>	</div>
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-6">
 		There's a store in the campground, supplied completely by mules! We were even able to mail post cards. Delivery by mule! (Doesn't seem like anybody's received any postcards yet, wonder if the mule fell off a cliff)
 	</div>
 </div>

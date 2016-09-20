@@ -41,28 +41,28 @@ description: "Hiking through the Grand Canyon, continued. Devil's Corkcrew, Plat
 </div>
 
 <div class="row vertical-align">
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/9.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/9.jpg" /></a> 
 	</div>
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		Indian Garden used to be inhabited seasonally by an Indian American tribe, the Havasupai. They used to farm there, before they got kicked out by Roosevelt when he wanted to turn the area into a park.
 	</div>
 </div>
 
 <div class="row vertical-align">
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 			It was a bit overcast while we were hiking, but it wasn't until we were napping in our tent with the fly off that the clouds decided to let loose. I woke up as soon as I felt the first few raindrops on my face, shook awake a super groggy and confused Parker and we managed to save our camp from the torrential downpour that broke out.
 	</div>
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/10.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/10.jpg" /></a> 
 	</div>
 </div>
 
 <div class="row vertical-align">
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/11.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/11.jpg" /></a>
 	</div>
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		As the rain dwindled we hiked out to Plateau Point. The trail cuts through a cacti-dotted plane to a cliff edge with a great view of the surrounding canyon and murky Colorado River below.
 	</div>
 </div>
@@ -72,10 +72,10 @@ description: "Hiking through the Grand Canyon, continued. Devil's Corkcrew, Plat
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/17.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/17.jpg" /></a>
 
 <div class="row vertical-align">
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/16.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/16.jpg" /></a>
 	</div>
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/18.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/18.jpg" /></a>
 		<br><center>Hanging out</center>
 	</div>
@@ -88,9 +88,9 @@ description: "Hiking through the Grand Canyon, continued. Devil's Corkcrew, Plat
 Apparently Plateau Point is a great spot to catch the sunrise or sunset, when the sky is clear. We caught a glimpse of the sunset through the clouds.
 </center>
 <div class="row vertical-align">
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/21.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/21.jpg" /></a>	</div>
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		Accidentally disturbed the privacy of a deer on the way back.
 	</div>
 </div>
@@ -104,10 +104,10 @@ The next morning we woke at 4AM to start the final climb out of the Canyon. Raci
 <center>We reached the top of the trail just as the sun was beginning to reach us.</center>
 <br>
 <div class="row vertical-align">
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/27.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/27.jpg" /></a>
 	</div>
-	<div class="col-xs-6 col-sm-6">
+	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/28.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/28.jpg" /></a>
 	</div>
 </div>
