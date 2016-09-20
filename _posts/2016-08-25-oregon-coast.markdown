@@ -14,7 +14,9 @@ description: "Down the US-101 From Vancouver to California"
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473611219/west_coast_usa/1.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473611219/west_coast_usa/1.jpg" /></a>   
 </div>
 
-Parker and I left Vancouver early in the morning, on a Thursday in the last week of summer, for one more adventure before our impending senior year of Unviersity. 
+Parker and I left Vancouver early in the morning, on a Thursday in the last week of summer, for one more adventure before our impending senior year of University. 
+
+We were headed down the Oregon coast, with a stop at the beach and in the Redwood Forest, to San Fransisco. We’d then cut across the Mojave Desert to Arizona and hike through the Grand Canyon before speeding back through Utah, Idaho and Washington to get back to Vancouver before the first day of school. 12 days, 6300 kilometres, and 1 van with no A/C.
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473611219/west_coast_usa/4.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473611219/west_coast_usa/4.jpg" /></a>
 
