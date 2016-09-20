@@ -11,6 +11,8 @@ description: "The long road home"
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473961592/utah_idaho_washington/0.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473961592/utah_idaho_washington/0.jpg" /></a>
 
+<!--excerpt-->
+
 <center>We left the Grand Canyon in the midst of a lightning storm.</center>
 <br>
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473961592/utah_idaho_washington/2.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473961592/utah_idaho_washington/2.jpg" /></a>
@@ -35,7 +37,6 @@ description: "The long road home"
 	</div>
 </div>
 
-<!--excerpt-->
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473961592/utah_idaho_washington/5.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473961592/utah_idaho_washington/5.jpg" /></a> 
 
 <div class="row vertical-align">

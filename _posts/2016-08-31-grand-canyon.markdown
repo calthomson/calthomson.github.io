@@ -21,6 +21,8 @@ description: "First day in the Grand Canyon: The Descent"
 	</div>
 </div>
 
+<!--excerpt-->
+
 For any other late planners headed to the Grand Canyon, show up to the backcountry office 1-2 hours before they open (at 8am), and it seems like you have a good chance of getting a permit, so long as it's not a long weekend/holiday etc. Apparently if you don't get it that day you'll be at the top of the list for the next day.
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/2.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/2.jpg" /></a>
@@ -38,7 +40,6 @@ We started hiking at 10AM, precisely when the signs around the canyon warn peopl
 	</div>
 </div>
 
-<!--excerpt-->
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/2-3.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/2-3.jpg" /></a> 
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/5.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/5.jpg" /></a> 

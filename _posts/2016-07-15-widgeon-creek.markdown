@@ -27,13 +27,13 @@ Into the waterproof baggie goes the camera. Now we are allowed to tip. →
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470411692/widgeon/4.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470411692/widgeon/4.jpg" /></a>
 
+<!--excerpt-->
+
 We crossed the lake, which had only a couple motorized boats speeding back and forth, and went up Widgeon Creek. We took the left fork of the creek and paddled until we reached a campsite. From here we followed a trail for 30-45 minutes to get to the falls.
 
 <div class="row vertical-align">                   
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470411692/widgeon/6.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470411692/widgeon/6.jpg" /></a>
 </div>  
-
-<!--excerpt-->
 
 <div class="row vertical-align"> 
 <div class="col-sm-8 col-xs-12">                  

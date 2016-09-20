@@ -29,8 +29,7 @@ description: "A visit to Arizona's second biggest tourist attraction"
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/2.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/2.jpg" /></a>
 	</div>
 </div>
-
-
+<!--excerpt-->
 <div class="row vertical-align">
 	<div class="col-sm-7 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/3.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/3.jpg" /></a> 

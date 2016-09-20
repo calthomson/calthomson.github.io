@@ -26,6 +26,8 @@ After St. Mark's Summit the trail went straight down into a super foggy valley. 
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/a_auto_right/v1470631135/howe-sound-crest/DSC05925.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/a_auto_right/v1470631135/howe-sound-crest/DSC05925.jpg" /></a>
 </div>
 
+<!--excerpt-->
+
 <div class="col-sm-4 col-xs-12"> 
 After reaching the bottom of the valley, the trail begins a long, steep uphill scramble up "non-improved" trails to the highest point on the route, an elevation of around 1,500m.
 
@@ -42,8 +44,6 @@ After 45 minutes it doesn't even feel like you're going uphill anymore. Embrace 
 <div class="row vertical-align">                   
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/0.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/0.jpg" /></a> 
 </div>  
-
-<!--excerpt-->
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">

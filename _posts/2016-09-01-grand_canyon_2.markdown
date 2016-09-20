@@ -22,10 +22,10 @@ description: "Hiking through the Grand Canyon, continued. Devil's Corkcrew, Plat
 </div>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/2.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/2.jpg" /></a>
+<!--excerpt-->
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/4.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/4.jpg" /></a> 
 
-<!--excerpt-->
 <center>
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/6.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/6.jpg" /></a> 
 </center>
