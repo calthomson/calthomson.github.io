@@ -800,3 +800,21 @@ pre {
 .sidebar-container {
   position: relative;
 }
+
+.previous-post {
+  float: left;
+  display: inline-block;
+}
+
+.next-post {
+  float: right;
+  display: inline-block;
+}
+
+.post-chain-link {
+  display: inline-block;
+  &:hover {
+    color: #F65438;
+    font-style: none;
+  }
+}

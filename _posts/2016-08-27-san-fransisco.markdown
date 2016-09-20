@@ -7,6 +7,9 @@ thumbnail: "http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-
 description: "Two sleeps in the Windy City"
 ---
 
+<div class="previous-post"><b>Previous: </b><a href= "{{ site.baseurl }}/2016/08/25/oregon-coast.html"><div class="post-chain-link">Oregon Coast</div></a></div>
+<div class="next-post"><b>Next: </b><a href="{{ site.baseurl }}/2016/08/29/mojave.html"><div class="post-chain-link">Mojave Desert</div></a></div><br>
+
 <div class="row vertical-align">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/1.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/1.jpg" /></a>   
 </div>
@@ -169,5 +172,8 @@ San Fransisco reminds me so much of Canberra. The single story houses on the out
 </div>
 <center>See you later San Fran! Off into windmill land..</center>
 
+-Cal & Parker
 
--Cal
+<div class="previous-post"><b>Previous: </b><a href= "{{ site.baseurl }}/2016/08/25/oregon-coast.html"><div class="post-chain-link">Oregon Coast</div></a></div>
+<div class="next-post"><b>Next: </b><a href="{{ site.baseurl }}/2016/08/29/mojave.html"><div class="post-chain-link">Mojave Desert</div></a></div>
+<br>
