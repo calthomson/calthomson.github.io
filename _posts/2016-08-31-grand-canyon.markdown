@@ -8,7 +8,7 @@ description: "First day in the Grand Canyon: The Descent"
 ---
 
 <div class="previous-post"><b>Previous: </b><a href= "{{ site.baseurl }}/2016/08/30/arizona.html"><div class="post-chain-link">Arizona</div></a></div>
-<div class="next-post"><b>Next: </b><a href="{{ site.baseurl }}/2016/09/01/grand_canyon_2.html"><div class="post-chain-link">Grand Canyon: Day 2 & 3</div></a></div><br>
+<div class="next-post"><b>Next: </b><a href="{{ site.baseurl }}/2016/09/01/grand_canyon_2.html"><div class="post-chain-link">Grand Canyon Cont.</div></a></div><br>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/0.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473912580/grand_canyon_day_1/0.jpg" /></a>
 
@@ -124,5 +124,5 @@ We started hiking at 10AM, precisely when the signs around the canyon warn peopl
 -Cal & Parker
 
 <div class="previous-post"><b>Previous: </b><a href= "{{ site.baseurl }}/2016/08/30/arizona.html"><div class="post-chain-link">Arizona</div></a></div>
-<div class="next-post"><b>Next: </b><a href="{{ site.baseurl }}/2016/09/01/grand_canyon_2.html"><div class="post-chain-link">Grand Canyon: Day 2 & 3</div></a></div>
+<div class="next-post"><b>Next: </b><a href="{{ site.baseurl }}/2016/09/01/grand_canyon_2.html"><div class="post-chain-link">Grand Canyon Cont.</div></a></div>
 <br>

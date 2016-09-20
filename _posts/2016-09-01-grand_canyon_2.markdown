@@ -7,8 +7,8 @@ thumbnail: "http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/gran
 description: "Hiking through the Grand Canyon, continued. Devil's Corkcrew, Plateau Point and the climb out."
 ---
 
-<div class="previous-post"><b>Previous: </b><a href= "{{ site.baseurl }}/2016/08/31/grand-canyon.html"><div class="post-chain-link">Grand Canyon: Day 1</div></a></div>
-<div class="next-post"><b>Next: </b><a href="{{ site.baseurl }}/2016/09/03/utah_idaho_washington.html"><div class="post-chain-link">Utah, Idaho, & Washington</div></a></div><br>
+<div class="previous-post"><b>Previous: </b><a href= "{{ site.baseurl }}/2016/08/31/grand-canyon.html"><div class="post-chain-link">Grand Canyon</div></a></div>
+<div class="next-post"><b>Next: </b><a href="{{ site.baseurl }}/2016/09/03/utah_idaho_washington.html"><div class="post-chain-link">Drive Home</div></a></div><br>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/0.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473960193/grand_canyon_day_2/0.jpg" /></a>
 
@@ -120,6 +120,6 @@ Down to the bottom, back up to the top, through sunburn and rain storm, bubonic 
 
 -Cal & Parker
 
-<div class="previous-post"><b>Previous: </b><a href= "{{ site.baseurl }}/2016/08/31/grand-canyon.html"><div class="post-chain-link">Grand Canyon: Day 1</div></a></div>
-<div class="next-post"><b>Next: </b><a href="{{ site.baseurl }}/2016/09/03/utah_idaho_washington.html"><div class="post-chain-link">Utah, Idaho, & Washington</div></a></div>
+<div class="previous-post"><b>Previous: </b><a href= "{{ site.baseurl }}/2016/08/31/grand-canyon.html"><div class="post-chain-link">Grand Canyon</div></a></div>
+<div class="next-post"><b>Next: </b><a href="{{ site.baseurl }}/2016/09/03/utah_idaho_washington.html"><div class="post-chain-link">Drive Home</div></a></div>
 <br>
