@@ -111,7 +111,7 @@ description: "The long road home"
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473961592/utah_idaho_washington/24.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473961592/utah_idaho_washington/24.jpg" /></a> 
 
-1 van, 12 days, 6300 kilometres. Early mornings, kraft dinner, hiking, swimming, and sleeping in the van. Countless replays of John Elton and Tracy Chapman cassetts, and only a few u-turns. Now time to hit the books for the last time..
+1 van, 12 days, 6300 kilometres. Early mornings, kraft dinner, hiking, swimming, and sleeping in the van. Countless replays of Elton John and Tracy Chapman cassetts, and only a few u-turns. Now time to hit the books for the last time..
 
 -Cal & Parker
 
