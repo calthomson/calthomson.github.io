@@ -3,13 +3,13 @@ layout: post
 title:  "First Half Marathon"
 date:   2016-11-15 19:45:31 +0530
 author: "Caledonia Thomson"
+thumbnail: "https://scontent-sea1-1.xx.fbcdn.net/t31.0-8/15110482_10211053206350916_6771720292003356207_o.jpg"
+description: "Running the Fall Classic half marathon"
 ---
 
 This Sunday I ran my first half marathon!
 
 <a href="https://scontent-sea1-1.xx.fbcdn.net/t31.0-8/15110482_10211053206350916_6771720292003356207_o.jpg"><img class="lazy" data-original="https://scontent-sea1-1.xx.fbcdn.net/t31.0-8/15110482_10211053206350916_6771720292003356207_o.jpg" alt="First Half Marathon" style="width:100%"></a>
-
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1479233742/fall_classic_results.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1479233742/fall_classic_results.jpg" alt="First Half Marathon Results" style="width:100%"></a>
 
 I signed up for this race all of 8 weeks ago, googled "last minute half marathon training plan", and proceeded to get totally hyped up and excited about the idea of <b>finally</b> running a half.
 
@@ -27,11 +27,13 @@ The 2 week taper before the race turned out to be a good thing for me. Any pains
 
 The course is a big loop that you run twice, and it's laid out so that you get to run past everybody else when they loop around. It was super inspiring to see the lead runners go past. They looked like they were sprinting, their bodies were so efficient! It was also cool to run past the tail of the racers, people were dishing out highfives, and everyone was pumped. Halfway through the run we looped past the starting line and spectators cheered us on. I didn't realize how nice it would be to have people highfiving you and cheering for you but it was so motivational and I felt rejuvenated for the second half.
 
-My energy kept up all the way up until the 19th kilometre. I started drinking the gatorade that people at the stations were handing out, and when I realized I was soon going to have to pick up my pace to finish the last few kilometres strong, I accepted a gel pack that was handed to me. Anything to give my legs a little bit more fuel, as they were beginning to feel a bit wobbly.
+My energy kept up all the way up until the 19th kilometre. I started drinking the gatorade that people at the stations were handing out, and when I realized I was soon going to have to pick up my pace to finish the last few kilometres strong, I accepted a gel pack that was handed to me. Anything to give my legs a little bit more fuel, as they were beginning to feel wobbly.
 
 In the last kilometre I wasn't breathing hard, but my legs started to feel pretty surreal. I found that I couldn't run any faster than 5:30 min/km. In the last 100 metres, when I could see the finish line and the cheering crowd, I was able to finally break into a sprint.
 
 I crossed the finish line with a chip time of 1:55:48. I couldn't believe that I had finally completed a half marathon and that I'd done it under my goal time! It didn't feel real, I couldn't believe the race was over. I think I had convinced myself that I was just going to keep running forever. Running this race was more exciting and inspiring than I had ever imagined. I understand why people get addicted to doing this- I'm already planning my next race!
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1479233742/fall_classic_results.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1479233742/fall_classic_results.jpg" alt="First Half Marathon Results" style="width:100%"></a>
 
 -Caledonia
 

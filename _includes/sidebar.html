@@ -1,11 +1,16 @@
 <div class="sidebar-container sticky">
 	<div class="sidebar">
-	    <a href="/archive"><h3>Recent Posts</h3><a>
+	    <a href="/archive"><h3>Recent Travel Posts</h3><a>
 	    <ul>
-	    	{% for post in site.inbetween limit:1 %}
+	        {% for post in site.posts limit:10 %}
 	          <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
 	        {% endfor %}
-	        {% for post in site.posts limit:10 %}
+	    </ul>
+	</div>
+
+	<a href="/archive"><h3>Recent Life (Inbetween) Posts</h3><a>
+	    <ul>
+	        {% for post in site.inbetween limit:10 %}
 	          <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
 	        {% endfor %}
 	    </ul>
