@@ -35,13 +35,13 @@ I crossed the finish line with a chip time of 1:55:48. I couldn't believe that I
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1479233742/fall_classic_results.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1479233742/fall_classic_results.jpg" alt="First Half Marathon Results" style="width:100%"></a>
 
-Running this race was more exciting and inspiring than I had ever imagined. I've been running my whole life, but I never participated in races after highschool. I didn't understand why people did races. You can run a half marathon on your own, why would you pay to run it with a mob of other people? Isn't that so much more stressful? I get it now, though. It wasn't stressful, it was inspiring. Here are the main reasons why I think runners should race:
+Running this race was more exciting and inspiring than I had ever imagined. I've been running my whole life, but I never participated in races after highschool. I didn't understand why people did races. You can run a half marathon on your own, why would you pay to run it with a mob of other people? Isn't that so much more stressful? I get it now, though. It wasn't stressful, it was inspiring. Here are three reasons why I think runners should race:
 
-1) The good vibes and kindred spirit of other runners and spectators push you to try your hardest. Nothing will lift your spirits more than a highfive from a random guy in a giant chicken suit, who showed up on a rainy Sunday just to cheer you on (because, let's face it, half marathons aren't <b>the</b> most entertaining spectator sport).
+	1) The good vibes and kindred spirit of other runners and spectators push you to try your hardest. Nothing will lift your spirits more than a highfive from a random guy in a giant chicken suit, who showed up on a rainy Sunday just to cheer you on (because, let's face it, half marathons aren't the most entertaining spectator sport).
 
-2) You get concrete results that you can feel good about. There's no stopping at traffic lights in a race, or fiddling with your platlist. The time you get is an accurate measurement that you can use to set future goals. 
+	2) You get concrete results that you can feel good about. There's no stopping at traffic lights in a race, or fiddling with your playlist. The time you get is an accurate measurement that you can use to set future goals. 
 
-3) You can give it your all without worrying about injury. When you run every day you are so concerned about hurting yourself that a race is one of the only times you can really give it your all. Also, the pre-race taper ensures that your legs are at their freshest- which doesn't happen very often during training.
+	3) You can give it your all without worrying about injury. When you run every day you are so concerned about hurting yourself that a race is one of the only times you can really give it your all. Also, the pre-race taper ensures that your legs are at their freshest- and it feels amazing to run on strong, rejuvenated legs!
 
 You worked hard to prepare, and when you cross the finish line you know for a fact what you're capable of. I understand why people get addicted to doing this- I'm already planning my next race!
 
