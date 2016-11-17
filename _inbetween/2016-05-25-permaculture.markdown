@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Permaculture Meetup"
+title:  "Thinking Green & Learning to Garden in Vancouver: Permaculture Meetup in Kitislano, Vancouver"
 date:   2016-05-25 19:45:31 +0530
 author: "Caledonia Thomson"
 ---

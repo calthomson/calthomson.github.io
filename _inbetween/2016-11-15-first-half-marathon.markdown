@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "First Half Marathon"
+title:  "Running my First Half Marathon: The Vancouver Fall Classic"
 date:   2016-11-15 19:45:31 +0530
 author: "Caledonia Thomson"
 thumbnail: "https://scontent-sea1-1.xx.fbcdn.net/t31.0-8/15110482_10211053206350916_6771720292003356207_o.jpg"
-description: "Training for and running the Vancouver Fall Classic half marathon for the first time in under 2 hours."
+description: "Training for and running my first half marathon, the Vancouver Fall Classic."
 ---
 
 This Sunday I ran my first half marathon!
