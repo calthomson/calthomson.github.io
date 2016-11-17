@@ -28,5 +28,6 @@ excerpt_separator: "<!--excerpt-->"
 gems:
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-sitemap
 
 paginate: 10
