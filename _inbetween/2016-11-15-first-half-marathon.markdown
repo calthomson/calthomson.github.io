@@ -17,7 +17,7 @@ I've trained for multiple half marathons over the past four years, but have alwa
 
 2 weeks before the race, school got crazy, and I abandonned my training schedule completely. I started to feel nervous as the race approached. I felt like I was completely unprepared. On the day of, Parker woke up with me at 6am to go to the course. The environment was totally uncompetitive but I was still dreading the crush at the starting line.
 
-I didn't need to worry, though. At the starting line I found my marker, a woman holding the 2:00 sign. At the beginning of my training I had aimed to do the race in under 2 hours. As my training progressed, I told myself that I shouldn't aim for a specific time on this first race, but I (not so) secretly still hoped to get it.
+I found my marker, a woman holding the 2:00 sign, as the announcer started their incomprehensible pre-race drawl. At the beginning of my training I had aimed to do the race in under 2 hours. As my training progressed, I told myself that I shouldn't aim for a specific time on this first race, but I (not so) secretly still hoped to get it.
 
 The race started, and I felt excellent. Running with so many people was exhilerating! I never run with other people. Running is my 'me' time, it's very meditative, so I don't want to talk to anyone. Running with this crowd was different, though. I felt like we were all in it together and wanted each other to succeed. It was also interesting to see how different people managed the race: who started slow and built up speed in the middle, who's pace remained consistant... There were a couple people who stayed near me the whole race and I started to feel like we knew each other.
 
@@ -31,7 +31,7 @@ My energy kept up all the way until the 18th kilometre. I started drinking the g
 
 In the last kilometre I wasn't breathing hard, but my legs started to feel pretty surreal. I found that I couldn't run any faster than 5:30 min/km. In the last 100 metres, when I could see the finish line and the cheering crowd, I was able to finally break into a sprint.
 
-I crossed the finish line with a chip time of 1:55:48. I couldn't believe that I had finally completed a half marathon and that I'd done it under my goal time! It didn't feel real, I couldn't believe the race was over. I think I had convinced myself that I was just going to keep running forever. 
+I crossed the finish line with a chip time of 1:55:48. I couldn't believe that I had finally completed a half marathon and that I'd done it under my goal time, despite completely undertraining. It didn't feel real, I couldn't believe the race was over. I think I had convinced myself that I was just going to keep running forever. 
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1479233742/fall_classic_results.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1479233742/fall_classic_results.jpg" alt="First Half Marathon Results" style="width:100%"></a>
 
