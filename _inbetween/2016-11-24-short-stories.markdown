@@ -28,7 +28,7 @@ Above, the glaring, gray sky is barely visible between the spindly fingers of th
 	</div>
 </div>
 
-As I swat yet another mosquito away I think wistfully of the warm, dry pavement of the col-de-sac outside of 4 Holly Place. I miss the Eucalyptus trees and the rocks of the orange gravel pathways around our house. I even miss the ants, and the flies, I think wistfully, as I crush yet another mosquito into my palm.
+As I swat yet another mosquito away I think longingly of the warm, dry pavement of the col-de-sac outside of 4 Holly Place. I miss the Eucalyptus trees and the rocks of the orange gravel pathways around our house. I even miss the ants, and the flies, I think wistfully, as I crush yet another mosquito into my palm.
 
 I dreaded our trips to “The Land”. 24 acres of swampy, forested land, interrupted every now and then by a clearing, typically populated by a broken-down car, perhaps a rusty old washing machine, or some other discarded household appliance. How did our family end up here, in The Middle of Nowhere, O Canada?
 
@@ -45,7 +45,7 @@ Our procession halts and I stop just short of bumping into the back of my mother
 <br>
 “It’s an apple tree” My mother tells me, approaching from behind. I see my father behind her, stamping a long stick into the ground and tying an orange marker to it. “Next year, in the spring, it will have beautiful blossoms, and you will be able to smell them right from your bedroom window!” I gaze up the gnarled trunk, through the maze of twisted branches, and see that the clouds have lightened. A patch of blue slowly forms above. 
 
-The next year, the day before my birthday, the beautiful pink-white buds unfold, and the air is full of their sweet smell- with only a hint of skunk cabbage. Their pollen in the sunlight, like fairy dust, makes the air glitter.
+In early May the next year, right around my birthday, the beautiful pink-white buds unfold, and the air is full of their sweet smell- with only a hint of skunk cabbage. Their pollen in the sunlight, like fairy dust, makes the air glitter.
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057587/dscn4247.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057587/dscn4247.jpg" /></a>
 
