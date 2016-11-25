@@ -84,8 +84,6 @@ One day, they came with hard, loud creatures, made from that compressed, shiny e
 
 One day, one of the strangers appeared from the “inside”. She had with her a tool of compressed earth, which she used to create a small hole in the earth. She knelt, placed something in this hole, and then covered it again. She returned to the “inside”.
 
-Days passed, the wind warmed, and rain fell. A small green tendril appeared on the mound of dirt the stranger had created. With no competing roots to butt its tender head against, it sprung from the earth, its vibrant greenness on the churned dark, dirt as a star on the night sky. Bathed in sunlight, with no neighbors to shroud it in shadow, it unfurled and tentatively lifted upwards towards the sun’s warm embrace. A small green leaf unfolded from its side.
-
 <div class="row vertical-align">
 	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057241/Untitled-6.gif"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057241/Untitled-6.gif" /></a>
