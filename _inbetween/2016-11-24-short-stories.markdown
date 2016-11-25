@@ -74,7 +74,7 @@ One day, they came with hard, loud creatures, made from that compressed, shiny e
 	<div class="col-sm-6 col-xs-12">
 		More time passed, and a peculiar structure rose up in the place of those who were torn down. The strangers regularly entered this place. They called it the “inside”. Away from the sun, and wind, and sweet rain, they would sit like Squirrel in his burrow. A small, dark space full of stale air where proximity would often incite conflict.<br><br>
 
-		They were confusing, peculiar things, these Strangers. <br>
+		They were confusing, peculiar things, these strangers. <br>
 	</div>
 	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057235/Untitled-13.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057235/Untitled-13.jpg" /></a>
