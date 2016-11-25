@@ -44,17 +44,17 @@ Suddenly there arose a rustling, as the brush to the west sighed apart and six s
 
 The larger of the six slashed and hacked at the walls of my glade, sending branches and vines to the earth. Squirrel nestled high, at the very tips of my reach, and Bird fled on warm wind.<br>
 
-That was the first day.<br>
+That was the first day.
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057235/Untitled-7.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057235/Untitled-7.jpg" /></a> 
 
 As the Big Sleep approached, the strangers returned each day. They cut away at my glade, with more speed, and bigger branches- but, no, those tools were not branches. Made of compressed earth, harder than a knotted wood, they rung out on struck stone and disrupted saplings like the wind a dandelion.<br>
 
-One day, they came with hard, loud creatures, made from that same compressed, shiny earth. The earth rumbled and churned under the rolling things, and my neighbors fell around me. The air was thick with the dust of bark, branch and needle. My roots trembled and shifted as the earth convulsed, but they were not torn up.<br>
+One day, they came with hard, loud creatures, made from that same compressed, shiny earth. The earth rumbled and churned under the rolling things, and my neighbors fell around me. The air was thick with the dust of bark, branch and needle. My roots trembled and shifted as the earth convulsed, but they were not torn up.
 
 <div class="row vertical-align">
 	<div class="col-sm-6 col-xs-12">
-		More time passed, and a peculiar structure rose up in the place of those who were torn down. The strangers regularly entered this place. They called it the “inside”. Away from the sun, and wind, and sweet rain, they would sit like Squirrel in his burrow. A small, dark space full of stale air where proximity would often incite conflict.<br>
+		More time passed, and a peculiar structure rose up in the place of those who were torn down. The strangers regularly entered this place. They called it the “inside”. Away from the sun, and wind, and sweet rain, they would sit like Squirrel in his burrow. A small, dark space full of stale air where proximity would often incite conflict.<br><br>
 
 		They were confusing, peculiar things, these Strangers. <br>
 	</div>
@@ -63,15 +63,8 @@ One day, they came with hard, loud creatures, made from that same compressed, sh
 	</div>
 </div>
 
+One day, one of them appeared from the “inside”. She had with her a tool of compressed earth, which she used to create a small hole in the earth. She knelt, placed something in this hole, and then covered it again. She returned to the “inside”.
 
-<div class="row vertical-align">
-	<div class="col-sm-6 col-xs-12">
-		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057241/Untitled-6.gif"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057241/Untitled-6.gif" /></a>
-	</div>
-	<div class="col-sm-6 col-xs-12">
-		One day, one of them appeared from the “inside”. She had with her a tool of compressed earth, which she used to create a small hole in the earth. She knelt, placed something in this hole, and then covered it again. She returned to the “inside”.<br>
+Days passed, the wind warmed, and rain fell. A small green tendril appeared on the mound of dirt the stranger had created. With no competing roots to butt its tender head against, it sprung from the earth, its vibrant greenness on the churned dark, dirt as a star on the night sky. Bathed in sunlight, with no neighbors to shroud it in shadow, it unfurled and tentatively lifted upwards towards the sun’s warm embrace. A small green leaf unfolded from its side.
 
-		Days passed, the wind warmed, and rain fell. A small green tendril appeared on the mound of dirt the stranger had created. With no competing roots to butt its tender head against, it sprung from the earth, its vibrant greenness on the churned dark, dirt as a star on the night sky. Bathed in sunlight, with no neighbors to shroud it in shadow, it unfurled and tentatively lifted upwards towards the sun’s warm embrace. A small green leaf unfolded from its side. <br>
-
-	</div>
-</div>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057241/Untitled-6.gif"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057241/Untitled-6.gif" /></a>
