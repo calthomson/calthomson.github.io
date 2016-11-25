@@ -8,7 +8,7 @@ description: "Short stories for CRWR 213."
 
 <center><h1>First Story</h1></center>
 
-<center><i>All photographs of "The Land" by Julie Ross, 2004<i></center>
+<center><i>All photographs of "The Land" by Julie Ross, 2004</i></center>
 
 <div class="row vertical-align">
 	<div class="col-sm-6 col-xs-12">
