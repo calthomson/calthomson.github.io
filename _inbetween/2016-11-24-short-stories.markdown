@@ -95,5 +95,3 @@ Days passed, the wind warmed, and rain fell. A small green tendril appeared on t
 	</div>
 </div>
 <br>
-
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057241/Untitled-6.gif"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057241/Untitled-6.gif" /></a>
