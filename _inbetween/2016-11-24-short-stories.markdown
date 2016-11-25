@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Home"
-date:   2016-24-15 19:45:31 +0530
+date:   2016-11-24 19:45:31 +0530
 author: "Caledonia Thomson"
 description: "Short stories for CRWR 213."
 ---
@@ -25,9 +25,6 @@ description: "Short stories for CRWR 213."
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057573/Secret.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057573/Secret.jpg" /></a> 
 	</div>
 </div>
-
-
-
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057235/Untitled-7.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057235/Untitled-7.jpg" /></a> 
 
