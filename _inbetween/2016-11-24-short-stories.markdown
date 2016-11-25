@@ -6,7 +6,9 @@ author: "Caledonia Thomson"
 description: "Short stories for CRWR 213."
 ---
 
-<<center>h1>First Story</h1></center>
+<center><h1>First Story</h1></center>
+
+<i>All photographs by Julie Ross, 2004<i>
 
 <div class="row vertical-align">
 	<div class="col-sm-6 col-xs-12">
@@ -31,6 +33,8 @@ description: "Short stories for CRWR 213."
 <br><br>
 
 <center><h1>Second Story</h1></center>
+
+<i> Drawings and animations by Caledonia Thomson, 2016 </i>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057235/Untitled-7.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057235/Untitled-7.jpg" /></a> 
 
