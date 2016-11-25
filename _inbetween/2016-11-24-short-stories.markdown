@@ -72,7 +72,7 @@ One day, they came with hard, loud creatures, made from that compressed, shiny e
 
 <div class="row vertical-align">
 	<div class="col-sm-6 col-xs-12">
-		More time passed, and a peculiar structure rose up in the place of those who were torn down. The strangers regularly entered this place. They called it the “inside”. Away from the sun, and wind, and sweet rain, they would sit like Squirrel in his burrow. A small, dark space full of stale air where proximity would often incite conflict.<br><br>
+		More time passed, and a peculiar structure rose up in the place of those who were torn down. It was hollow on the inside, with a trunk as thick as it was tall. The strangers regularly entered this place. They called it the “inside”. Away from the sun, and wind, and sweet rain, they would sit like Squirrel in his burrow. A small, dark space full of stale air where proximity would often incite conflict.<br><br>
 
 		They were confusing, peculiar things, these strangers. <br>
 	</div>
@@ -81,6 +81,8 @@ One day, they came with hard, loud creatures, made from that compressed, shiny e
 	</div>
 </div>
 <br>
+
+In time, Bird returned to the glade. With the debris that lay from my felled neighbors she built a nest atop the strangers' peculilar abode. She sang to them in blissful forgetfulness of the disrupt they had caused.
 
 One day, one of the strangers appeared from the “inside”. She had with her a tool of compressed earth, which she used to create a small hole in the earth. She knelt, placed something in this hole, and then covered it again. She returned to the “inside”.
 
