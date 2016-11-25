@@ -11,23 +11,41 @@ description: "Short stories for CRWR 213."
 <center><i>All photographs of "The Land" by Julie Ross, 2004</i></center>
 <br>
 
+Prickly branches scrape against my bare arms and make my skin itch. Everything is damp and the smell of wet moss and sweet decomposition is all around me.
+
+“That’s skunk cabbage!” My mother exclaims, clearly very pleased. She is too enthralled by her surroundings to notice that the string of children following in single formation behind her do not share her enchantment with this new and wondrous product of mother nature.
+
+Above, the glaring, gray sky is barely visible between the spindly fingers of the pine trees that surround us. Mum leads, with me close behind. I walk on her heels, willing the gloom of my aura to somehow penetrate the effervescent bubble that surrounds her, born the moment we arrived at this place and growing ever larger and brighter with each passing skunk cabbage.
+
+
+
 <div class="row vertical-align">
 	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057572/TheLand.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057572/TheLand.jpg" /></a>
 	</div>
 	<div class="col-sm-6 col-xs-12">
-		Parker mortally injured this beetle at a gas station when he moved his leg into it's flight path. You feel a lot guiltier about accidentally killing bugs when they're the size of some small animals.
+		My younger sister walks behind me, humming a tuneless song, her eyes glazed over. The youngest children, Wallis and August, follow. Each of them clutches a stuffed dog, Broccoli and Rhubarb. My dad walks a few paces in front of my mum, slashing gleefully at the brush with a long knife that he purchased from Canadian Tire. 
 	</div>
 </div>
 
+As I swat yet another mosquito away I think wistfully of the warm, dry pavement of the col-de-sac outside of 4 Holly Place. I miss the Eucalyptus trees and the rocks of the orange gravel pathways around our house. I even miss the ants, and the flies, I think wistfully, as I crush yet another mosquito into my palm.
+
+I dreaded our trips to “The Land”. 24 acres of swampy, forested land, interrupted every now and then by a clearing, typically populated by a broken-down car or two, or perhaps a rusty old washing machine, or some other discarded household appliance. How did our family end up here, in Middle of Nowhere, O Canada?
+
+Our procession halts and I stop just short of bumping into the back of my mother. A wide, muddy puddle bars our path, and we must change our direction. We skirt along the edge of the shallow creek that trickles through the middle of the property, and find ourselves, finally, in an opening.
+
 <div class="row vertical-align">
 	<div class="col-sm-6 col-xs-12">
-		Accidentally stole two tent pegs from Walmart. Maybe I shouldn't write that on here.
+		Here, the light finally breaches the wall of green above, and I turn my face up to the warm fingers of the sun. My parents talk excitedly to each other, pointing around the small clearing, their eyes sparkling with delight. At the edge of a clearing is a gnarled old tree. I approach it and place my palm against its knotted trunk.
 	</div>
 	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057573/Secret.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057573/Secret.jpg" /></a> 
 	</div>
 </div>
+
+“It’s an apple tree!” My mother says, approaching from behind. “Next year, in the spring, it will have beautiful blossoms”. I gaze up the gnarled trunk, through the maze of twisted branches, and see that the cloud cover has lightened. A patch of blue is slowly forming above. 
+
+The next year, the day before my birthday, the beautiful pink-white buds unfold, and the air is full of their sweet smell- with only a hint of skunk cabbage. Their pollen in the sunlight, like fairy dust, makes the air glitter.
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057587/dscn4247.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1480057587/dscn4247.jpg" /></a>
 
@@ -50,7 +68,7 @@ That was the first day.
 
 As the Big Sleep approached, the strangers returned each day. They cut away at my glade, with more speed, and bigger branches- but, no, those tools were not branches. Made of compressed earth, harder than a knotted wood, they rung out on struck stone and disrupted saplings like the wind a dandelion.<br>
 
-One day, they came with hard, loud creatures, made from that same compressed, shiny earth. The earth rumbled and churned under the rolling things, and my neighbors fell around me. The air was thick with the dust of bark, branch and needle. My roots trembled and shifted as the earth convulsed, but they were not torn up.
+One day, they came with hard, loud creatures, made from that compressed, shiny earth. The ground rumbled and churned under the rolling things, and my neighbors fell around me. The air was thick with the dust of bark, branch and needle. Roots trembled and shifted as the earth convulsed, but finally the creatures departed. Silence echoed as the clearing of naked soil settled.
 
 <div class="row vertical-align">
 	<div class="col-sm-6 col-xs-12">
