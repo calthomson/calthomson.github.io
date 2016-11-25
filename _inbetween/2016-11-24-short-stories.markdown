@@ -84,7 +84,7 @@ One day, they came with hard, loud creatures, made from that compressed, shiny e
 
 In time, Bird returned to the glade. With the debris that lay from my felled neighbors she built a nest atop the strangers' peculilar abode. She sang to them in blissful forgetfulness of the disrupt they had caused.
 
-One day, one of the strangers appeared from the “inside”. She had with her a tool of compressed earth, which she used to create a small hole in the earth. She knelt, placed something in this hole, and then covered it again. She returned to the “inside”.
+One day, one of the strangers appeared from the “inside”. She had with her a tool of compressed earth, which she used to create a small hole in the ground. She knelt, and placed something in this hole. She then replaced the dirt, and returned to the “inside”.
 
 <div class="row vertical-align">
 	<div class="col-sm-6 col-xs-12">
