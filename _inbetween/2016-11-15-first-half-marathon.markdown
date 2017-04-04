@@ -9,8 +9,6 @@ description: "Training for and running my first half marathon, the Vancouver Fal
 
 This Sunday I ran my first half marathon!
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1491279966/marathon.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1491279966/marathon.jpg" alt="First Half Marathon" style="width:100%"></a>
-
 I signed up for this race all of 8 weeks ago, googled "last minute half marathon training plan", and proceeded to get totally hyped up and excited about the idea of <b>finally</b> running a half.
 
 I've trained for multiple half marathons over the past four years, but have always ended up getting injured. As soon as I up my weekly mileage, I tend to get runner's knee. This time I was careful. I went to physio and actually followed their instructions, I focused more on speed work and less on distance, and got a lot of my miles by running on softer trails instead of the hard pavement.
