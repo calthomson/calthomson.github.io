@@ -6,6 +6,9 @@ permalink: ':title/'
 github_username:  calthomson
 baseurl: "" # the subpath of your site, e.g. /blog
 
+# Build settings
+markdown: kramdown
+
 collections:
   inbetween:
     output: true
