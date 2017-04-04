@@ -1,29 +1,5 @@
 ---
-layout: default
+layout: index
+title: "Vegemite Soup"
+description: "A blog about some things"
 ---
-
-{% for post in paginator.posts %}
-<div class="homeExcerpt">
-<a href="{{ site.baseurl }}{{ post.url }}">
-  <div class="postContainer">
-    <div class="postExcerpt">
-      <h1 class="post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-        </a>
-      </h1>
-
-      <span class="post-date">{{ post.date | date: '%b %-d, %Y' }}</span>
-    </div>
-    {{ post.excerpt }}
-      {% if post.content contains site.excerpt_separator %}
-        <div class="fadeout"></div>
-      {% endif %}
-  </div>
-  {% if post.content contains site.excerpt_separator %}
-    <a href="{{ site.baseurl }}{{ post.url }}"><center><div class="readMore">READ MORE</div></center></a>
-  {% endif %}
-</a>
-</div>
-<br><br>
-{% endfor %}

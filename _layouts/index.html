@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="flex-grid">
+{% for post in site.posts %}
+<article class="main-articles">
+    <div class="image">
+     {% if post.thumbnail %}
+        <a href="{{post.url | prepend: site.baseurl}}"><img class="post-image" src={{ post.thumbnail }} alt="{{post.title}}"></a>
+     {% endif %}
+     <div class="post-content">
+      <div class="wrap-content">
+        <header class="header-article">
+          <h2><span><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></span></h2>
+        </header>
+      </div>
+    </div>
+  </div>
+</article>
+{% endfor %}
+</div>

@@ -1,54 +1,21 @@
 <!DOCTYPE html>
-<html>
-
-  {% include head.html %}
-
-  <body>
-
-    {% include header.html %}
-
-    <script>
-      window.fbAsyncInit = function() {
-        FB.init({
-          appId      : '1187928701270587',
-          xfbml      : true,
-          version    : 'v2.7'
-        });
-      };
-
-      (function(d, s, id){
-         var js, fjs = d.getElementsByTagName(s)[0];
-         if (d.getElementById(id)) {return;}
-         js = d.createElement(s); js.id = id;
-         js.src = "//connect.facebook.net/en_US/sdk.js";
-         fjs.parentNode.insertBefore(js, fjs);
-       }(document, 'script', 'facebook-jssdk'));
-    </script>
-
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=561030450726044";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
-
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="row">
-          <div class="col-md-3 hidden-xs">
-            {% include sidebar.html %}
-          </div>
-          <div class="col-md-9">
-              {{ content }}
-          </div>
-        </div>
+<html lang="en">
+{% include head.html %}
+<body>
+  {% include header.html %}
+  <div class="page-wrap">
+    <div class="row">
+      <div class="col-md-2 hidden-xs hidden-sm">
+        {% include sidebar.html %}
+      </div>
+      <div class="col-md-10">
+        <main role="main">
+          {{ content }}
+        </main>
       </div>
     </div>
-
-    {% include scripts.html %}
-    
-  </body>
-
+  </div>
+{% include footer.html %}
+{% include javascripts.html %}
+</body>
 </html>

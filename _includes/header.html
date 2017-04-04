@@ -1,21 +1,24 @@
-<div class="wrapper">
-  <center><div class="site-title"><a href="/"><img src="/vegemite_soup.png" /></a></div></center>
-</div>
-<div class="wrapper">
-  <div class="container-fluid">
-    <center>
-    <ul class="navbar">
-      <div class="right-nav">
-        <a class="page-link" href="/index.html">Home</a><a class="page-link" href="/archive.html"> • Archive</a>
-        
-        {% for sitePage in site.pages %}
-        {% if sitePage.title %}
-          <a class="page-link" href="{{sitePage.url | prepend: site.baseurl }}"> • {{sitePage.title}}</a>
-        
-        {% endif %}
-        {% endfor %}
-      </div>      
+<header class="site-header">
+  <button class="toggle_menu">
+    <span class="sandwich">
+      <span class="sw-topper"></span>
+      <span class="sw-bottom"></span>
+      <span class="sw-footer"></span>
+    </span>
+  </button>
+  <nav class="top_menu">
+    <ul>
+      <li class="main-items"><a href="{{site.baseurl}}/">Home</a></li>
+      <li class="main-items"><a href="#">Videos</a></li>
+      <li class="main-items"><a href="#">Gallery</a></li>
+      <li class="main-items"><a href="#">About</a></li>
+      <li class="main-items"><a href="#">Contact</a></li>
     </ul>
-    </center>
+  </nav>
+  <div class="header-content">
+    <div class="logo">
+      <a href="{{site.baseurl}}/"><img height="50%" width="50%" src="http://vegemitesoup.com/vegemite_soup.png"></a>
+      <!-- < href="{{site.baseurl}}/" class="logo-link">Vegemite Soup</a> -->
+    </div>
   </div>
-</div>
+</header>
