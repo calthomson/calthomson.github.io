@@ -3,6 +3,7 @@ email: CaledoniaThomson@gmail.com
 description: A blog about things
 url: "http://vegemitesoup.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
+github_username:  calthomson
 baseurl: "" # the subpath of your site, e.g. /blog
 
 collections:
@@ -10,4 +11,4 @@ collections:
     output: true
 
 # Comments
-discus_identifier: mr-brown
+discus_identifier: calthom
