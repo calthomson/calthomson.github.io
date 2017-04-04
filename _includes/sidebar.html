@@ -1,7 +1,7 @@
 <div class="sidebar-container sticky">
 	<div class="sidebar">
 		<center>
-	    <a href="/archive"><h3>Recent Travel</center></h3><a>
+	    <a href="/archive"><h3>Recent Travel</h3><a>
 	    </center>
 	    <ul>
 	        {% for post in site.posts limit:10 %}
@@ -11,7 +11,9 @@
 	</div>
 
 	<div class="sidebar">
+		<center>
 		<a href="/inbetween"><h3>Recent Life</h3><a>
+		</center>
 		<ul>
 			{% for post in site.inbetween limit:10 %}
 				<li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
@@ -20,7 +22,9 @@
 	</div>
 
 	<div class="sidebar">
+		<center>
 		<a href="/archive"><h3>Archive</h3></a>
+		</center>
 		<div class="sidebar-module">
 		<ul>
 		  {% for post in site.posts %}

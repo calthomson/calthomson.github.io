@@ -219,8 +219,10 @@ audio:not([controls]) {
 /**
  * Remove the border on images inside links in IE 10-.
  */
-img {
+a img {
   border-style: none;
+  margin-top: 11px;
+  margin-top: 11px;
 }
 
 /**
@@ -783,7 +785,7 @@ body {
 }
 
 a {
-  color: #949090;
+  color: #1D1C1E;
   text-decoration: none;
   -webkit-transition: color 0.2s linear;
   transition: color 0.2s linear;
@@ -1080,17 +1082,17 @@ blockquote {
 
 h2 { 
    position: absolute; 
-   top: 200px; 
+   bottom: 20px; 
    left: 0; 
    width: 100%; 
 }
 
 h2 span { 
    color: white; 
-   font: bold 24px/45px Helvetica, Sans-Serif; 
+   font: bold 45px/80px Helvetica, Sans-Serif; 
    letter-spacing: -1px;  
    background: rgb(0, 0, 0); /* fallback color */
-   background: rgba(0, 0, 0, 0.7);
+   background: rgba(195, 193, 193, 0.7);
    padding: 10px; 
 }
 
@@ -1117,18 +1119,19 @@ h2 span {
 }
 .header-article h2 {
   text-transform: uppercase;
-  margin: 0 0 0.25rem 0;
+  /* margin: 0 0 0.25rem 0; */
   line-height: 1.2;
 }
 .header-article h2 a {
-  font-weight: 400;
+  font-weight: 800;
+  font-size: 100%;
   text-decoration: none;
   color: #333;
   -webkit-transition: all .35s;
   transition: all .35s;
 }
 .header-article h2 a:hover {
-  color: #6D4C41;
+  color: black;
 }
 
 .byline {
@@ -1204,7 +1207,7 @@ h2 span {
 }
 
 .page-container {
-  max-width: 960px;
+  max-width: 1200px;
   margin: 0 auto;
   position: relative;
   background-color: #fff;
@@ -1239,11 +1242,8 @@ h2 span {
 }
 
 .page-content {
-  padding: 2rem;
+  padding: 0rem 2rem 2rem 2rem;
   margin-bottom: 1rem;
-}
-.page-content h1 {
-  color: #6D4C41;
 }
 .page-content img {
   width: 100%;
@@ -1276,6 +1276,37 @@ h2 span {
   }
 }
 
+/* POST CSS */
+.vertical-align {
+    display: flex;
+    align-items: center;
+    table-layout: fixed;
+}
+
+article center {
+  margin-top: 11px;
+  font-weight: bold;
+}
+
+article p {
+  margin-top: 11px;
+}
+
+article .row {
+  display: inline-flex;
+}
+
+.post-title {
+    font-size: 100px;
+    text-align: center;
+    /* font-family: "PT Sans"; */
+    font-weight: 900;
+
+    &:hover {
+        color: rgb(40, 40, 40) !important;
+    }
+}
+
 /* ARCHIVE CSS */
 
 .monthTitle {
@@ -1287,6 +1318,14 @@ h2 span {
   overflow: hidden;
   width: 100%;
   height: 53px;
+}
+
+.postTitle {
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  text-indent: 3px;
+  font-weight: 900;
 }
 
 .thumbnail {

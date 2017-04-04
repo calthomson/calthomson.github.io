@@ -12,7 +12,7 @@ description: "A visit to Arizona's second biggest tourist attraction"
 
 <div class="row vertical-align">
 	<div class="col-sm-6 col-xs-12">
-		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/1.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/1.jpg" /></a> 
+		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/1.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/1.jpg" /></a> 
 	</div>
 	<div class="col-sm-6 col-xs-12">
 		So we brought this book with us, the Eyewitness Travel Guide for the USA. In it, we'd read about Lake Havasu City. The city's founder had bought and transported, stone-by-stone, the London Bridge (not to be confused with the famous Gothic Tower Bridge) from England to Lake Havasu City, only to find that there was nothing for the bridge to span.
@@ -24,31 +24,31 @@ description: "A visit to Arizona's second biggest tourist attraction"
 		 So he dug a channel and diverted water from the lake and made his own river to put the bridge over! Guess he really wanted the bridge. When we saw the signs for Lake Havasu City we had to take a detour to see "one of Arizona's most popular tourist attractions", despite it being 60 miles out of our way..
 	</div>
 	<div class="col-sm-6 col-xs-12">
-		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/2.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/2.jpg" /></a>
+		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/2.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/2.jpg" /></a>
 	</div>
 </div>
 <!--excerpt-->
 <div class="row vertical-align">
 	<div class="col-sm-7 col-xs-12">
-		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/3.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/3.jpg" /></a> 
+		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/3.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/3.jpg" /></a> 
 	</div>
 	<div class="col-sm-5 col-xs-12">
 		The small mock-Tudor village built around the 'world famous' bridge was a ghost town. There was seriously no one around. I guess not many people found the hilarity of the bridge a strong enough reason to venture off the main highway.
 	</div>
 </div>
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/4.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/4.jpg" /></a> 
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/4.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/4.jpg" /></a> 
 <center>This bridge is in the middle of nowhere, in a desert. Maybe it was a cool attraction back when land-locked locals had never seen a bridge before??? We don't know.</center>
 
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/6.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/6.jpg" /></a> 
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/6.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/6.jpg" /></a> 
 <center>Parker finds shelter in the only shade available</center>
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/7.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/7.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/7.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/7.jpg" /></a>
 
 <div class="row vertical-align">
 	<div class="col-sm-6 col-xs-12">
-		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/8.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/8.jpg" /></a>
+		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/8.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/8.jpg" /></a>
 	</div>
 	<div class="col-sm-6 col-xs-12">
 		Parker mortally injured this beetle at a gas station when he moved his leg into it's flight path. You feel a lot guiltier about accidentally killing bugs when they're the size of some small animals.
@@ -60,27 +60,27 @@ description: "A visit to Arizona's second biggest tourist attraction"
 		Accidentally stole two tent pegs from Walmart. Maybe I shouldn't write that on here.
 	</div>
 	<div class="col-sm-6 col-xs-12">
-		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/9.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/9.jpg" /></a> 
+		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/9.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/9.jpg" /></a> 
 	</div>
 </div>
 
 <div class="row vertical-align">
 	<div class="col-sm-6 col-xs-12">
-		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/13.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/13.jpg" /></a>
+		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/13.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/13.jpg" /></a>
 	</div>
 	<div class="col-sm-6 col-xs-12">
 		In Flagstaff we stayed at an Airbnb with some interesting wall decorations..
 	</div>
 </div>
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/10.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/10.jpg" /></a> 
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/10.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/10.jpg" /></a> 
 
 <div class="row vertical-align">
 	<div class="col-sm-6 col-xs-12">
-		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/11.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/11.jpg" /></a>
+		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/11.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/11.jpg" /></a>
 	</div>
 	<div class="col-sm-6 col-xs-12">
-		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/12.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/12.jpg" /></a>
+		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/12.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473558832/havasu_flagstaff/12.jpg" /></a>
 	</div>
 </div>
 

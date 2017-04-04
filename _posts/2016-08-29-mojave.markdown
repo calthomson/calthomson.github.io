@@ -16,11 +16,11 @@ description: "We drove through the desert in a van with no name (just kidding th
 </div>
 
 <div class="col-sm-8 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/3.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/3.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/3.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/3.jpg" /></a>
 </div>
 </div>
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/2.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/2.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/2.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/2.jpg" /></a>
 
 <center>Van hanging out with the kingpins.</center>
 
@@ -28,55 +28,55 @@ description: "We drove through the desert in a van with no name (just kidding th
 
 <div class="row vertical-align">
 <div class="col-sm-7 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/5.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/5.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/5.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/5.jpg" /></a>
 </div>
 
 <div class="col-sm-5 col-xs-12">                   
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/9.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/9.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/9.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/9.jpg" /></a>
 </div>  
 </div>
 
 <div class="row vertical-align">                   
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/4.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/4.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/4.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/4.jpg" /></a> 
 </div>  
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/7.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/7.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/7.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/7.jpg" /></a>
 
 We camped at Hole in the Wall, in Mojave National Preserve, hung out with the jackrabbits and wandering cows. The place was quiet except for one other group, so we didn't even need to pay.
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/10.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/10.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/10.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/10.jpg" /></a>
 </div>
 
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/13.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/13.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/13.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/13.jpg" /></a>
 </div>
 </div>
 
 Hole in the Wall gets it's name because of the rocky ridges surrounding it. These ranges block a lot of the light pollution from Las Vegas to the North, so it's great for taking photos of the milky way!
 
 <div class="row vertical-align">
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/12.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/12.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/12.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/12.jpg" /></a>
 </div>
 
 <center>On the left is the light from Las Vegas, 150 miles away!</center>
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/11.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/11.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/11.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/11.jpg" /></a>
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/19.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/19.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/19.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/19.jpg" /></a>
 
 <div class="row vertical-align">                   
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/14.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/14.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/14.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/14.jpg" /></a> 
 </div>  
 
 <center>Waking up to a beautiful desert sunrise.</center>
 
  <div class="row vertical-align">                   
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/18.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/18.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/18.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/18.jpg" /></a> 
 </div>  
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/17.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/17.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/17.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/17.jpg" /></a>
 
 -Cal & Parker
 

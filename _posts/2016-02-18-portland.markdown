@@ -10,62 +10,62 @@ description: "A Valentines Weekend in Portland, Oregon"
 A Valentines Weekend in Portland, Oregon.
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/1.jpg">
-![Portland](http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/1.jpg)
+<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/1.jpg" />
 </a>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/1.jpg">
-![Portland](http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/1.jpg)
+<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/1.jpg" />
 </a>
 
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/11.jpg">
-![Portland](http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/11.jpg)
+<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/11.jpg" />
 </a>
 
                            
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/2.jpg">
-![Portland](http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/2.jpg)           
+<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/2.jpg" />          
 </a>
 
        
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/3.jpg">
-![Portland](http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/3.jpg)
+<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/3.jpg" />
 </a>
 
 
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/4.jpg">
-![Portland](http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/4.jpg)
+<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/4.jpg" />
 </a>
 
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/title.jpg">
-![Portland](http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/title.jpg)
+<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/title.jpg" />
 </a>
 
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/5.jpg">
-![Portland](http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/5.jpg)
+<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/5.jpg" />
 </a>
 
     
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/6.jpg">![Portland](http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/6.jpg)</a>    
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/6.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/6.jpg" /></a>    
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/7.jpg">![Portland](http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/7.jpg)</a>  
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/7.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/7.jpg" /></a>  
     
 
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/8.jpg">
-![Portland](http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/8.jpg)
+<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/8.jpg" />
 </a>
 
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/9.jpg">
-![Portland](http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/9.jpg)
+<img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/9.jpg" />
 </a>
 
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/10.jpg">![Portland](http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/10.jpg)</a> 
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/10.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/10.jpg" /></a> 
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/12.jpg">![Portland](http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/12.jpg)</a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/12.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470371013/portland/12.jpg" /></a>
 

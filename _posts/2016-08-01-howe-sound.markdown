@@ -8,7 +8,7 @@ description: "Backpacking on the Howe Sound Crest Trail"
 ---
 
 <div class="row vertical-align">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/6.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/6.jpg" /></a>   
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/6.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/6.jpg" /></a>   
 </div>
 
 This August long weekend Parker and I tested out the backpacking gear we've scraped together and did an overnight trip along the Howe Sound Crest Trail. Our starting point was Cypress Mountain, our destination Magnesia Meadows. It's a 14.5km hike per day.
@@ -19,11 +19,11 @@ After St. Mark's Summit the trail went straight down into a super foggy valley. 
 
 <div class="row vertical-align">
 <div class="col-sm-4 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/1.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/1.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/1.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/1.jpg" /></a>
 </div>
 
 <div class="col-sm-4 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/a_auto_right/v1470631135/howe-sound-crest/DSC05925.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/a_auto_right/v1470631135/howe-sound-crest/DSC05925.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/a_auto_right/v1470631135/howe-sound-crest/DSC05925.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/a_auto_right/v1470631135/howe-sound-crest/DSC05925.jpg" /></a>
 </div>
 
 <!--excerpt-->
@@ -36,22 +36,22 @@ After 45 minutes it doesn't even feel like you're going uphill anymore. Embrace 
 </div>
 
 <div class="row vertical-align">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/3.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/3.jpg" /></a>   
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/3.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/3.jpg" /></a>   
 </div>
 
  The family was right. There's at least 3 points where you think you've made it to the top but it just keeps going. It's worth it though, because the view is incredible! Once you're at the very top you climb right back down, in order to continue on to the Lions. 
 
 <div class="row vertical-align">                   
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/0.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/0.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/0.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/0.jpg" /></a> 
 </div>  
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/8.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/8.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/8.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/8.jpg" /></a>
 </div>
 
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/7.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/7.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/7.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/7.jpg" /></a>
 </div>
 </div>
 
@@ -59,28 +59,28 @@ After 45 minutes it doesn't even feel like you're going uphill anymore. Embrace 
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/9.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/9.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/9.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/9.jpg" /></a>
 </div>
 
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/10.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/10.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/10.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/10.jpg" /></a>
 </div>
 </div>
 
 Climbing down the other side of Mt. Unecessary is the most technical part of the trail between Cypress and the Lions- you get to Indiana Jones down some ropes!
 
 <div class="row vertical-align">                   
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/5.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/5.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/5.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/5.jpg" /></a>
 </div> 
 
 <div class="row vertical-align">
 <div class="col-sm-7 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/12.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/12.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/12.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/12.jpg" /></a><br><br>
 	We reached the Lions, had lunch, took a nap (as always), and listened to the dialogs of people trying to stay positive while fearing for their lives as they precariously descended from the West Lion's peak- a climb that is more like rock climbing than hiking, and probably should not be done in sneakers..
 </div>
 
 <div class="col-sm-5 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/11.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/11.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/11.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/11.jpg" /></a>
 </div>
 </div>
 
@@ -88,48 +88,48 @@ Magnesia Meadows is ~4km past the Lions, but a group coming from that direction 
 
 <div class="row vertical-align">
 <div class="col-sm-4 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/14.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/14.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/14.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/14.jpg" /></a>
 Bug nets highly recommended!
 </div>
 <div class="col-sm-8 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/15.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/15.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/15.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/15.jpg" /></a>
 </div>
 </div>
 
 <div class="row vertical-align">                   
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/13.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/13.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/13.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/13.jpg" /></a> 
 </div>  
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/16.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/16.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/16.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/16.jpg" /></a>
 </div>
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/20.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/20.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/20.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/20.jpg" /></a>
 </div>
 </div>
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/17.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/17.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/17.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/17.jpg" /></a>
 </div>
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/19.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/19.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/19.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/19.jpg" /></a>
 </div>
 </div>
 
 <div class="row vertical-align">                   
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/18.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/18.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/18.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/18.jpg" /></a> 
 </div>  
 
 We had pancakes for breakfast, made more inukshuks, and climbed back up the Indiana Jones ropes. My craigslist hiking boots totally murdered my ankles on the trip back down. Everything hurt that night, but it was 100% worth it.
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470664970/howe-sound-crest/DSC06005.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470664970/howe-sound-crest/DSC06005.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470664970/howe-sound-crest/DSC06005.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470664970/howe-sound-crest/DSC06005.jpg" /></a>
 </div>
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/21.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/21.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/21.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470372932/howe-sound-crest/21.jpg" /></a>
 </div>
 </div>
 

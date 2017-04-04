@@ -8,12 +8,12 @@ description: "Canada Day Camping at Strawberry Point"
 ---
 
 <div class="row vertical-align">
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/1.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/1.jpg" /></a> 
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/1.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/1.jpg" /></a> 
 </div>
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/2.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/2.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/2.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/2.jpg" /></a>
 </div>
 
 <div class="col-sm-6 col-xs-12">
@@ -25,49 +25,49 @@ We drove out to Pemberton, to go to a spot that someone told us about, on Crown 
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/3.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/3.jpg" /></a> 
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/3.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/3.jpg" /></a> 
 </div>
 
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/4.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/4.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/4.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/4.jpg" /></a>
 </div>
 </div>
 <!--excerpt-->
 
 <div class="row vertical-align">                   
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/5.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/5.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/5.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/5.jpg" /></a>
 </div>  
 
 After trekking all our stuff in, building a bridge, setting up a rain tarp, and generally getting comfortale, the guy leasing the land showed up to tell us that those horseback tours weren't just random people, they were part of his business, and we were on his property and needed to leave.
 
 <div class="row vertical-align">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/6.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/6.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/6.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/6.jpg" /></a>
 </div>
 
 The guy and wife told us about a spot on Lilooet lake, Strawberry Point. So we packed up and drove on.
 
 <div class="row vertical-align">                               
-    <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/7.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/7.jpg" /></a>
+    <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/7.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/7.jpg" /></a>
 </div>
 
 We got to Strawberry Point after driving down In-Shuck-Ch Forest Service Road for about 6km. The camping area is right on the lake, a 5 minute walk down some trail and stairs. You can camp anywhere if you can find a spot, so long as you pay the BC parks guy $13 a night. We got lucky/pushy and got a spot right on the water!
 
 <div class="row vertical-align">  
-    <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/8.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/8.jpg" /></a>               
+    <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/8.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/8.jpg" /></a>               
 </div>
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">              
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/9.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/9.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/9.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/9.jpg" /></a>
 </div>
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/11.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/11.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/11.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/11.jpg" /></a> 
 </div>
 </div>
 
 <div class="row vertical-align">
 <div class="col-sm-8 col-xs-12">              
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/10.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/10.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/10.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/10.jpg" /></a>
 </div>
 
 <div class="col-sm-5 col-xs-12"> 
@@ -76,64 +76,64 @@ Summary: sleeping, drinking, pancakes, marshmallows, hammocking, cards, beer pon
 </div>
 
 <div class="row vertical-align">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470796104/DSC04398.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470796104/DSC04398.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470796104/DSC04398.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470796104/DSC04398.jpg" /></a>
 </div>
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">      
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/13.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/13.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/13.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/13.jpg" /></a> 
 </div>
 
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/12.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/12.jpg" /></a>
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/14.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/14.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/12.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/12.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/14.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/14.jpg" /></a> 
 </div>
 </div>
 
 <div class="row vertical-align">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/15.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/15.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/15.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/15.jpg" /></a> 
 </div>
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/16.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/16.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/16.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/16.jpg" /></a>
 </div>
 
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/17.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/17.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/17.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/17.jpg" /></a>
 </div>
 </div>
 
 <div class="row vertical-align">    
-    <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/18.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/18.jpg" /></a>
+    <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/18.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/18.jpg" /></a>
 </div>
 
 <div class="row vertical-align">
-    <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/19.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/19.jpg" /></a>               
-</div>
-
-<div class="row vertical-align">
-<div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/20.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/20.jpg" /></a>
-</div> 
-
-<div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/22.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/22.jpg" /></a>
-</div> 
+    <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/19.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/19.jpg" /></a>               
 </div>
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/23.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/23.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/20.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/20.jpg" /></a>
 </div> 
 
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/21.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/21.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/22.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/22.jpg" /></a>
 </div> 
 </div>
 
 <div class="row vertical-align">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/24.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/24.jpg" /></a>
+<div class="col-sm-6 col-xs-12">
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/23.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/23.jpg" /></a>
+</div> 
+
+<div class="col-sm-6 col-xs-12">
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/21.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/21.jpg" /></a>
+</div> 
+</div>
+
+<div class="row vertical-align">
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/24.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/24.jpg" /></a>
 </div> 
 
 

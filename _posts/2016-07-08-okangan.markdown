@@ -10,7 +10,7 @@ description: "A roadtrip to Salmon Arm, Sicamous, & Kelowna"
 This week we visited Salmon Arm, Sicamous and Kelowna.
 <div class="row vertical-align">
 <div class="col-sm-8 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/2.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/2.jpg" /></a>   
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/2.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/2.jpg" /></a>   
 </div>
 <div class="col-sm-4 col-xs-12">
 My awesome, soon-to-be the next Bill Nye sister graduated highschool! Parker and I drove to Salmon Arm to surpise her for the graduation ceremony. Congratulations on your calculations Wallis :D
@@ -20,58 +20,57 @@ My awesome, soon-to-be the next Bill Nye sister graduated highschool! Parker and
 <center>Say Cheese!</center>
 
 <div class="col-sm-12 col-xs-12">
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/1.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/1.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/1.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/1.jpg" /></a>
 </div>
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/5_1.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/5_1.jpg" /></a>
-<!--excerpt-->  
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/5_1.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/5_1.jpg" /></a>
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">                
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/6.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/6.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/6.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/6.jpg" /></a>
 </div>  
 
 <div class="col-sm-6 col-xs-12">           
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/7.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470411692/Okanagan/7.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/7.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470411692/Okanagan/7.jpg" /></a>
 	<center>Oh my god my siblings are catching up to me.</center>
 </div>
 </div>
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">                
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/8.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/8.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/8.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/8.jpg" /></a>
 </div>  
 
 <div class="col-sm-6 col-xs-12">           
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/9.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470411692/Okanagan/9.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/9.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470411692/Okanagan/9.jpg" /></a>
 </div>
 </div>
 
 <center>Made a new friend</center>
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/11.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/11.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/11.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/11.jpg" /></a>
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/12.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/12.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/12.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/12.jpg" /></a>
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">                
 	We hiked up to a hang gliding launch in Sicamous and got a nice view of the lake and the town below.
 </div>  
 <div class="col-sm-6 col-xs-12">                  
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/13.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/13.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/13.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/13.jpg" /></a>
 </div>  
 </div>
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606850/Okanagan/20.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606850/Okanagan/20.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606850/Okanagan/20.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606850/Okanagan/20.jpg" /></a>
 
 <div class="row vertical-align">
 <div class="col-sm-5 col-xs-12">                  
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/17.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/17.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/17.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/17.jpg" /></a>
 </div> 
 <div class="col-sm-7 col-xs-12">                  
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/15.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/15.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/15.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606854/Okanagan/15.jpg" /></a>
 </div>  
 </div>
 We visited the one and only Kayla Weber in Kelowna on our way back to Vancouver and ran into some confused deer who mistook downtown Kelowna for the great outdoors.
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606850/Okanagan/flowers.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606850/Okanagan/flowers.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606850/Okanagan/flowers.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470606850/Okanagan/flowers.jpg" /></a>
 
 -Cal

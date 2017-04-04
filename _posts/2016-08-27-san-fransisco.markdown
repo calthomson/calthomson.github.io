@@ -11,18 +11,18 @@ description: "Two sleeps in the Windy City"
 <div class="next-post"><b>Next: </b><a href="{{ site.baseurl }}/2016/08/29/mojave.html"><div class="post-chain-link">Mojave Desert</div></a></div><br>
 
 <div class="row vertical-align">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/1.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/1.jpg" /></a>   
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/1.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/1.jpg" /></a>   
 </div>
 
 Next stop, San Fransisco! Before entering the Windy City, we appropriately saw a bunch of guys wind surfing in the bay near Point San Pedro.
 
 <div class="row vertical-align">
 <div class="col-sm-4 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/2.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/2.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/2.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/2.jpg" /></a>
 </div>
 
 <div class="col-sm-8 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/3.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/3.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/3.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/3.jpg" /></a>
 </div>
 </div>
 
@@ -31,16 +31,16 @@ Dad put us up near Union square. We wandered around Chinatown, had below average
 
 <div class="row vertical-align">
 <div class="col-sm-7 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/5.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/5.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/5.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/5.jpg" /></a>
 </div>
 
 <div class="col-sm-5 col-xs-12">                   
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/32.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/32.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/32.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/32.jpg" /></a> 
 </div>  
 </div>
 
 <div class="row vertical-align">                   
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/4.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/4.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/4.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/4.jpg" /></a> 
 </div>  
 
 Day 2, we walk and walk and walk all around the city, check out the docks, hang with the seagulls, look at things, hang off things.
@@ -48,16 +48,16 @@ Day 2, we walk and walk and walk all around the city, check out the docks, hang 
 <div class="row vertical-align">
 <div class="col-sm-7 col-xs-12">
 <div class="row vertical-align">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/7.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/7.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/7.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/7.jpg" /></a>
 </div>
 
 <div class="row vertical-align">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/6.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/6.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/6.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/6.jpg" /></a>
 </div>
 </div>
 
 <div class="col-sm-5 col-xs-12">
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/9.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/9.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/9.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/9.jpg" /></a>
 </div>
 </div>
 
@@ -67,16 +67,16 @@ San Fransisco reminds me so much of Canberra. The single story houses on the out
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/10.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/10.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/10.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/10.jpg" /></a>
 </div>
 
 <div class="col-sm-6 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/11.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/11.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/11.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/11.jpg" /></a>
 </div>
 </div>
 
 <div class="row vertical-align">
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/12.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/12.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/12.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/12.jpg" /></a>
 </div>
 
 <div class="row vertical-align">
@@ -84,27 +84,27 @@ San Fransisco reminds me so much of Canberra. The single story houses on the out
 	We see a driver take an unfortunate detour down a pedestrian/cyclist path and get confused at the <b> Pedestrians | Cyclists</b> sign.
 </div>
 <div class="col-sm-8 col-xs-12">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/13.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/13.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/13.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/13.jpg" /></a>
 </div>
 </div>
 
 <div class="row vertical-align">                   
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/14.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/14.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/14.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/14.jpg" /></a> 
 </div>  
 
 <center>Insert obligartory Golden Gate bridge photo.</center>
 
  <div class="row vertical-align">                   
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/18.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/18.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/18.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/18.jpg" /></a> 
 </div>  
 
  <center>On the roof of Dad's building.</center>
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/17.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/17.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/17.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/17.jpg" /></a>
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/19.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/19.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/19.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/19.jpg" /></a>
 </div>
 <div class="col-sm-6 col-xs-12">
 <- Examining building damage from an earthquake!
@@ -114,16 +114,16 @@ San Fransisco reminds me so much of Canberra. The single story houses on the out
 <div class="row vertical-align">
 <div class="col-sm-7 col-xs-12">
 <div class="row vertical-align">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/21.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/21.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/21.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/21.jpg" /></a>
 </div>
 
 <div class="row vertical-align">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/22.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/22.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/22.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/22.jpg" /></a>
 </div>
 </div>
 
 <div class="col-sm-5 col-xs-12">
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/23.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/23.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/23.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/23.jpg" /></a>
 </div>
 </div>
 
@@ -131,27 +131,27 @@ San Fransisco reminds me so much of Canberra. The single story houses on the out
 
 <div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">                
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/24.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/24.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/24.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/24.jpg" /></a> 
 </div>  
 
 <div class="col-sm-6 col-xs-12">                
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/25.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/25.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/25.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/25.jpg" /></a> 
 </div>  
 </div>
 
 <div class="row vertical-align">
 
 <div class="col-sm-6 col-xs-12">
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/27.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/27.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/27.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/27.jpg" /></a>
 </div>
 
 <div class="col-sm-6 col-xs-12">
 <div class="row vertical-align">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/26.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/26.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/26.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/26.jpg" /></a>
 </div>
 
 <div class="row vertical-align">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/28.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/28.jpg" /></a>
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/28.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/28.jpg" /></a>
 </div>
 </div>
 </div>  
@@ -160,15 +160,15 @@ San Fransisco reminds me so much of Canberra. The single story houses on the out
 
 <div class="row vertical-align">
 <div class="col-sm-8 col-xs-12">           
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/30.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/30.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/30.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/30.jpg" /></a> 
 </div>   
 <div class="col-sm-4 col-xs-12">                   
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/29.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/29.jpg" /></a> 
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/29.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473269931/san-fransisco/29.jpg" /></a> 
 </div> 
 </div>
 
 <div class="row vertical-align">
-	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/1.jpg"><img class="lazy" data-original="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/1.jpg" /></a>   
+	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/1.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1473557045/mojave/1.jpg" /></a>   
 </div>
 <center>See you later San Fran! Off into windmill land..</center>
 

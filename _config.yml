@@ -5,5 +5,9 @@ url: "http://vegemitesoup.com" # the base hostname & protocol for your site, e.g
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 
+collections:
+  inbetween:
+    output: true
+
 # Comments
 discus_identifier: mr-brown

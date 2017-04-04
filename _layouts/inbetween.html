@@ -4,12 +4,12 @@ layout: default
 
 <div class="home">
 
-  <img src="/assets/images/archive.png" width="15%" /><br><br>
-  {% for post in site.posts%}
+  <img src="/assets/images/inbetween.png" width="15%" /><br><br>
+  {% for post in site.inbetween%}
   {% capture this_month %}{{ post.date | date: "%B %Y" }}{% endcapture %}
   {% unless month == this_month %}
   {% assign month = this_month %}
-  {% unless post == site.posts.first %}
+  {% unless post == site.inbetween.first %}
   {% endunless %}
   <div class="monthTitle" id="{{ month }}">{{ month }}</div>
   {% endunless %}
