@@ -8,10 +8,6 @@ description: "Canada Day Camping at Strawberry Point"
 ---
 
 <div class="row vertical-align">
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/1.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/1.jpg" /></a> 
-</div>
-
-<div class="row vertical-align">
 <div class="col-sm-6 col-xs-12">
 	<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/2.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1470725383/canada-day/2.jpg" /></a>
 </div>
