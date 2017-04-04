@@ -76,7 +76,7 @@ I steered the canoe on the trip back. No further comment about how that went.
 </div>  
 
 <div class="col-sm-6 col-xs-12">                   
-There is a canoe/kayak shop at Grant Narrow vertical-aligns where you can rent for the day or overnight if you don't have your own boat. From the first campsite it is possible to hike to Widgeon Lake which also seems like a cool place to camp or fish.
+There is a canoe/kayak shop at Grant Narrow where you can rent for the day or overnight if you don't have your own boat. From the first campsite it is possible to hike to Widgeon Lake which also seems like a cool place to camp or fish.
 </div>
 </div>
 
