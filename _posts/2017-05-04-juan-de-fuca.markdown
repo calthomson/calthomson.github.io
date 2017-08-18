@@ -21,11 +21,16 @@ description: ""
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711625/juan_de_fuca/DSC03733.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711625/juan_de_fuca/DSC03733.jpg" /></a>
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711628/juan_de_fuca/DSC03826.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711628/juan_de_fuca/DSC03826.jpg" /></a>
+<div class="row vertical-align">
+	<div class="col-sm-6 col-xs-12">
+		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711628/juan_de_fuca/DSC03826.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711628/juan_de_fuca/DSC03826.jpg" /></a>
+	</div>
+	<div class="col-sm-6 col-xs-12">
+		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711628/juan_de_fuca/DSC03839.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711628/juan_de_fuca/DSC03839.jpg" /></a>
+	</div>
+</div>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711627/juan_de_fuca/DSC03835.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711627/juan_de_fuca/DSC03835.jpg" /></a>
-
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711628/juan_de_fuca/DSC03839.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711628/juan_de_fuca/DSC03839.jpg" /></a>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711630/juan_de_fuca/DSC03846.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711630/juan_de_fuca/DSC03846.jpg" /></a>
 
@@ -41,7 +46,14 @@ description: ""
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711623/juan_de_fuca/DSC03983.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711623/juan_de_fuca/DSC03983.jpg" /></a>
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711627/juan_de_fuca/DSC04040.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711627/juan_de_fuca/DSC04040.jpg" /></a>
+<div class="row vertical-align">
+	<div class="col-sm-6 col-xs-12">
+		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711627/juan_de_fuca/DSC04040.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711627/juan_de_fuca/DSC04040.jpg" /></a>
+	</div>
+	<div class="col-sm-6 col-xs-12">
+		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711631/juan_de_fuca/DSC04129.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711631/juan_de_fuca/DSC04129.jpg" /></a>
+	</div>
+</div>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711627/juan_de_fuca/DSC04053.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711627/juan_de_fuca/DSC04053.jpg" /></a>
 
@@ -49,11 +61,9 @@ description: ""
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711629/juan_de_fuca/DSC04087.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711629/juan_de_fuca/DSC04087.jpg" /></a>
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711629/juan_de_fuca/DSC04118-Pano.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711629/juan_de_fuca/DSC04118-Pano.jpg" /></a>
-
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711632/juan_de_fuca/DSC04125.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711632/juan_de_fuca/DSC04125.jpg" /></a>
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711631/juan_de_fuca/DSC04129.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711631/juan_de_fuca/DSC04129.jpg" /></a>
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711629/juan_de_fuca/DSC04118-Pano.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711629/juan_de_fuca/DSC04118-Pano.jpg" /></a>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711631/juan_de_fuca/DSC04130-Pano-2.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711631/juan_de_fuca/DSC04130-Pano-2.jpg" /></a>
 
@@ -66,8 +76,6 @@ description: ""
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711633/juan_de_fuca/DSC04151.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711633/juan_de_fuca/DSC04151.jpg" /></a>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711634/juan_de_fuca/DSC04158.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711634/juan_de_fuca/DSC04158.jpg" /></a>
-
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711634/juan_de_fuca/DSC04166.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711634/juan_de_fuca/DSC04166.jpg" /></a>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711635/juan_de_fuca/DSC04188.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711635/juan_de_fuca/DSC04188.jpg" /></a>
 
