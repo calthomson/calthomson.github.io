@@ -80,6 +80,8 @@ description: ""
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711634/juan_de_fuca/DSC04144.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711634/juan_de_fuca/DSC04144.jpg" /></a>
 
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711634/juan_de_fuca/DSC04172.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711634/juan_de_fuca/DSC04172.jpg" /></a>
+
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711633/juan_de_fuca/DSC04151.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711633/juan_de_fuca/DSC04151.jpg" /></a>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711634/juan_de_fuca/DSC04158.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711634/juan_de_fuca/DSC04158.jpg" /></a>
@@ -87,7 +89,3 @@ description: ""
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711635/juan_de_fuca/DSC04188.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711635/juan_de_fuca/DSC04188.jpg" /></a>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711635/juan_de_fuca/DSC04206.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711635/juan_de_fuca/DSC04206.jpg" /></a>
-
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711634/juan_de_fuca/DSC04172.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711634/juan_de_fuca/DSC04172.jpg" /></a>
-
-
