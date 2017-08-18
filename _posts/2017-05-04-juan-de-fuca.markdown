@@ -7,8 +7,6 @@ thumbnail: "http://res.cloudinary.com/vegemitesoup/image/upload/v1494711622/juan
 description: ""
 ---
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711622/juan_de_fuca/DSC03583.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711622/juan_de_fuca/DSC03583.jpg" /></a>
-
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711623/juan_de_fuca/DSC03589.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711623/juan_de_fuca/DSC03589.jpg" /></a>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711623/juan_de_fuca/DSC03630.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711623/juan_de_fuca/DSC03630.jpg" /></a>
