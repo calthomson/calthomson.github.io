@@ -61,8 +61,6 @@ description: ""
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711632/juan_de_fuca/DSC04125.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711632/juan_de_fuca/DSC04125.jpg" /></a>
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711631/juan_de_fuca/DSC04130-Pano-2.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711631/juan_de_fuca/DSC04130-Pano-2.jpg" /></a>
-
 <div class="row vertical-align">
 	<div class="col-sm-6 col-xs-12">
 		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711634/juan_de_fuca/DSC04166.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1494711634/juan_de_fuca/DSC04166.jpg" /></a>
