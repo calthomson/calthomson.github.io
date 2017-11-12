@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Bermuda"
+date:   2017-07-07
+author: "Caledonia Thomson"
+thumbnail: "http://res.cloudinary.com/vegemitesoup/image/upload/v1510460916/bermuda/26.jpg"
+description: "Scooting around Bermuda"
+---
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460910/bermuda/1.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460910/bermuda/1.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460913/bermuda/2.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460913/bermuda/2.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460910/bermuda/3.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460910/bermuda/3.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460910/bermuda/5.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460910/bermuda/5.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460912/bermuda/6.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460912/bermuda/6.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460910/bermuda/7.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460910/bermuda/7.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460912/bermuda/8.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460912/bermuda/8.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460912/bermuda/10.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460912/bermuda/10.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460912/bermuda/11.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460912/bermuda/11.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460910/bermuda/12.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460910/bermuda/12.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460913/bermuda/13.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460913/bermuda/13.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460912/bermuda/14.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460912/bermuda/14.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460914/bermuda/15.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460914/bermuda/15.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460914/bermuda/16.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460914/bermuda/16.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460913/bermuda/17.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460913/bermuda/17.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460914/bermuda/18.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460914/bermuda/18.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460915/bermuda/19.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460915/bermuda/19.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460913/bermuda/20.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460913/bermuda/20.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460915/bermuda/21.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460915/bermuda/21.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460915/bermuda/22.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460915/bermuda/22.jpg" /></a>
+
+<div class="row vertical-align">
+	<div class="col-sm-4 col-xs-4">
+		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460915/bermuda/23.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460915/bermuda/23.jpg" /></a>
+	</div>
+	<div class="col-sm-8 col-xs-8">
+		<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460916/bermuda/24.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460916/bermuda/24.jpg" /></a>
+	</div>
+</div>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460915/bermuda/25.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460915/bermuda/25.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460916/bermuda/26.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460916/bermuda/26.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460916/bermuda/27.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460916/bermuda/27.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460916/bermuda/30.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460916/bermuda/30.jpg" /></a>
+
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1508207923/bermuda/DSC05696.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1508207923/bermuda/DSC05696.jpg" /></a>
