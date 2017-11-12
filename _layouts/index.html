@@ -9,8 +9,8 @@ layout: default
 {% unless post == site.posts.first %}
 {% endunless %}
 <div class="yearTitle" id="{{ year }}">{{ year }}</div>
-{% endunless %}
 <div class="flex-grid">
+{% endunless %}
 <article class="main-articles">
     <div class="image">
      {% if post.thumbnail %}
@@ -26,4 +26,10 @@ layout: default
   </div>
 </article>
 </div>
+{% unless year == this_year %}
+{% assign year = this_year %}
+{% unless post == site.posts.first %}
+{% endunless %}
+</div>
+{% endunless %}
 {% endfor %}
