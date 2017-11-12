@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Australia"
-date:   2017-20-02
+date:   2017-02-20
 author: "Caledonia Thomson"
 thumbnail: "http://res.cloudinary.com/vegemitesoup/image/upload/v1510469902/oz/5.jpg"
 description: ""
