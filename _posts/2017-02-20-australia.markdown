@@ -4,7 +4,7 @@ title:  "Australia"
 date:   2017-02-20
 author: "Caledonia Thomson"
 thumbnail: "http://res.cloudinary.com/vegemitesoup/image/upload/v1510469902/oz/1.jpg"
-description: ""
+description: "Reading Break escape to Oz"
 ---
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469901/oz/0.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469901/oz/0.jpg" /></a>
