@@ -2,15 +2,8 @@
 layout: default
 ---
 
-{% for post in site.posts %}
-{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-{% unless year == this_year %}
-{% assign year = this_year %}
-{% unless post == site.posts.first %}
-{% endunless %}
-<div class="yearTitle" id="{{ year }}">{{ year }}</div>
 <div class="flex-grid">
-{% endunless %}
+{% for post in site.posts %}
 <article class="main-articles">
     <div class="image">
      {% if post.thumbnail %}
@@ -25,11 +18,5 @@ layout: default
     </div>
   </div>
 </article>
-</div>
-{% unless year == this_year %}
-{% assign year = this_year %}
-{% unless post == site.posts.first %}
-{% endunless %}
-</div>
-{% endunless %}
 {% endfor %}
+</div>
