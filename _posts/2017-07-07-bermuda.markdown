@@ -41,6 +41,8 @@ description: "Scooting around Bermuda"
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460915/bermuda/19.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460915/bermuda/19.jpg" /></a>
 
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1508207923/bermuda/DSC05696.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1508207923/bermuda/DSC05696.jpg" /></a>
+
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460913/bermuda/20.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460913/bermuda/20.jpg" /></a>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460915/bermuda/21.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460915/bermuda/21.jpg" /></a>
@@ -63,5 +65,3 @@ description: "Scooting around Bermuda"
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460916/bermuda/27.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460916/bermuda/27.jpg" /></a>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460916/bermuda/30.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510460916/bermuda/30.jpg" /></a>
-
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1508207923/bermuda/DSC05696.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1508207923/bermuda/DSC05696.jpg" /></a>
