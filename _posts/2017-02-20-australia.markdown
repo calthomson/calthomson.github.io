@@ -96,6 +96,6 @@ At the top! Beauty. It's no BC mountain peak, but the bush has it's own unique b
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469905/oz/outra.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469905/oz/outra.jpg" /></a>
 
-The trip flew by! Partially due to fun and partially due to distributed systems assignments with shitty Canberra internet speed. But just beacuse I'm feeling generous... here's one last creepy crawly. Found this beauty Nana and Grandpop's bathroom.
+The trip flew by! Partially due to fun and partially due to distributed systems assignments with shitty Canberra internet speed. But just beacuse I'm feeling generous... here's one last creepy crawly. Found this beauty in Nana and Grandpop's bathroom.
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469904/oz/22.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469904/oz/22.jpg" /></a>
