@@ -32,6 +32,7 @@ We visited great nana's old house while we were in Sydney.
 We stayed at Nana and Grandpop's house!
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469904/oz/8.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469904/oz/8.jpg" /></a>
+
 Oh. My. God. This is the skateboarding hole Wallis, August, Dulcie and I used to fall into, climb out of, fall into, climb out of.. GOOD TIMES. So nostalgic. What a good hole.
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469903/oz/9.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469903/oz/9.jpg" /></a>
@@ -53,7 +54,7 @@ Surprise visit to Chrissie!
 	</div>
 </div>
 
-DnD with dad's OG table top crew!
+DnD with Dad's OG table top crew!
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469901/oz/10.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469901/oz/10.jpg" /></a>
 
@@ -73,7 +74,7 @@ Long blacks
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469904/oz/17.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469904/oz/17.jpg" /></a>
 
-Hiking up to Square Rock with Auntie Michelle
+Hiking up to Square Rock with Dad and Auntie Michelle
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469904/oz/18.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469904/oz/18.jpg" /></a>
 
@@ -87,14 +88,14 @@ Creepy crawlies on the way up! Those last ones spit honest to god ACID at you if
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469905/oz/23.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469905/oz/23.jpg" /></a>
 
-<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469905/oz/24.5.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469905/oz/24.5.jpg" /></a>
+At the top! Beauty. It's no BC mountain peak, but the bush has it's own unique beauty, especially alongside the monumental boulders of Square Rock and the blue, blue sky.
 
-At the top! Beauty
+<a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469905/oz/24.5.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469905/oz/24.5.jpg" /></a>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469905/oz/25.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469905/oz/25.jpg" /></a>
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469905/oz/outra.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469905/oz/outra.jpg" /></a>
 
-And just beacuse I'm feeling generous... here's one last creepy crawly. Found this beauty Nana and Grandpop's bathroom.
+The trip flew by! Partially due to fun and partially due to distributed systems assignments with shitty Canberra internet speed. But just beacuse I'm feeling generous... here's one last creepy crawly. Found this beauty Nana and Grandpop's bathroom.
 
 <a href="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469904/oz/22.jpg"><img src="http://res.cloudinary.com/vegemitesoup/image/upload/v1510469904/oz/22.jpg" /></a>
