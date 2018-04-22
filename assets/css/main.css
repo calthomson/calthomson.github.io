@@ -222,7 +222,9 @@ audio:not([controls]) {
 a img {
   border-style: none;
   margin-top: 11px;
-  margin-top: 11px;
+  margin-bottom: 11px;
+  opacity: 0.95;
+  transition: opacity .6s;
 }
 
 /**
@@ -785,12 +787,14 @@ body {
 
 a {
   color: #1D1C1E;
+  font-weight: 100;
   text-decoration: none;
-  -webkit-transition: color 0.2s linear;
-  transition: color 0.2s linear;
 }
+
 a:hover {
-  color: #615b5b;
+  color: #58565a;
+  font-weight: 300;
+  text-decoration: none;
 }
 
 .highlight {
@@ -826,10 +830,7 @@ blockquote {
 }
 
 .site-header {
-  /*position: fixed;*/
   text-align: center;
-  /*background-color: rgba(76, 42, 42, 0.95);
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);*/
   top: 0;
   left: 0;
   width: 100%;
@@ -1050,28 +1051,48 @@ blockquote {
           column-gap: 1rem;
 }
 
-.main-articles {
-  display: inline-block;
+.post-tile {
+  position: relative;
+  flex-direction: column;
   background-color: #fff;
+  min-height: 200px;
   width: 100%;
   clear: both;
   margin: 0 0 0.66rem 0;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
 }
-.main-articles .post-image {
+
+.post-tile .post-image {
   width: 100%;
   display: block;
   margin: 0;
   position: relative;
   display: block;
   max-width: 100%;
-  opacity: 0.95;
-  -webkit-transition: all 0.35s;
-  transition: all 0.35s;
+  z-index: 0;
 }
-.main-articles .post-image:hover {
-  -webkit-transform: scale3d(1.01, 1.01, 1);
-          transform: scale3d(1.01, 1.01, 1);
+
+.post-tile .post-image img {
+  opacity: 0.95;
+  -webkit-transition: opacity 2s ease-in;
+  -moz-transition: opacity 2s ease-in;
+  -o-transition: opacity 2s ease-in;
+  -ms-transition: opacity 2s ease-in;
+  transition: opacity 2s ease-in;
+}
+
+.post-tile .post-image img[data-src] {
+  min-height: 400px;
+}
+
+
+.post-tile:hover .post-image {
+  opacity: 1.8;
+}
+
+.post-tile:hover .post-title h2 a {
+  color: black;
+  font-size: 30px;
 }
 
 .image { 
@@ -1080,35 +1101,25 @@ blockquote {
 }
 
 h2 { 
-   position: absolute; 
-   bottom: 20px; 
-   left: 0; 
-   width: 100%; 
-}
-
-h2 span { 
-   color: white; 
    max-width: 100%;
    font: bold 35px/70px Helvetica, Sans-Serif; 
    letter-spacing: -1px;  
    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(195, 193, 193, 0.7);
+   margin: 0px;
    padding: 10px; 
 }
 
-.post-content {
+.post-title {
+  position: absolute;
+  top: 70%;
+  left: 0%;
+  align-self: flex-end;
   margin-bottom: 0;
-  overflow: hidden;
+  z-index: 1;
 }
 
-.wrap-content {
-  /*padding: 10%;*/
-}
-.wrap-content p {
-  margin: 0 0 1rem 0;
-}
-
-.header-article {
+.header {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1117,21 +1128,16 @@ h2 span {
       -ms-flex-direction: column;
           flex-direction: column;
 }
-.header-article h2 {
+.header h2 {
   text-transform: uppercase;
-  /* margin: 0 0 0.25rem 0; */
   line-height: 1.2;
 }
-.header-article h2 a {
+.header h2 a {
   font-weight: 900;
   font-size: 80%;
   text-decoration: none;
-  color: #333;
   -webkit-transition: all .35s;
   transition: all .35s;
-}
-.header-article h2 a:hover {
-  color: black;
 }
 
 .byline {
@@ -1157,7 +1163,6 @@ h2 span {
           flex-direction: column;
   background-color: #f36b56;
   color: rgba(255, 255, 255, 0.3);
-  /*border-top: 8px solid rgba(0, 0, 0, 0.5);*/
   margin-top: -8px;
   padding: 4rem 3rem;
 }
@@ -1221,6 +1226,8 @@ h2 span {
 .page-container img {
   max-width: 100%;
   height: auto;
+  opacity: 1;
+  tran
 }
 .page-container .page-img {
   width: 100%;
@@ -1293,7 +1300,7 @@ article p {
   margin-top: 11px;
 }
 
-.post-title {
+.post-header {
     font-size: 3.5em;
     text-align: center;
     /* font-family: "PT Sans"; */
@@ -1330,27 +1337,3 @@ article p {
   height: auto;
   border: none;
 }
-
-/*.post {
-  font-family: "Source Sans Pro";
-  font-size: 18px;
-  font-weight: 300;
-  padding-top: 0;
-}
-
-.postContent {
-  padding-top: 0em;
-  text-align: left;
-  display: inline-block;
-}
-
-.postTitle {
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 3px;
-  text-indent: 3px;
-}
-
-.postExcerpt {
-  position: relative;
-}*/
