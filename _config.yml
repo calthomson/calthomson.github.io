@@ -15,6 +15,3 @@ collections:
 
 # Comments
 discus_identifier: calthom
-
-gems:
- - jekyll-seo-tag
